@@ -1,0 +1,599 @@
+	<!DOCTYPE html>
+	<html lang="zxx" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="img/elements/fav.png">
+		<!-- Author Meta -->
+		<meta name="author" content="colorlib">
+		<!-- Meta Description -->
+		<meta name="description" content="">
+		<!-- Meta Keyword -->
+		<meta name="keywords" content="">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+		<!-- Site Title -->
+		<title>GL-Find a gym</title>
+		<link rel="icon" href="/img/websiteicon.png">
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+			  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+			  crossorigin=""/>
+
+		<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+				integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+				crossorigin=""></script>
+
+		<script src='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js'></script>
+		<link href='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css' rel='stylesheet' />
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+		<!-- Geocoder plugin -->
+		<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.2.0/mapbox-gl-geocoder.min.js'></script>
+		<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.2.0/mapbox-gl-geocoder.css' type='text/css' />
+
+		<script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.min.js"></script>
+		<link
+				rel="stylesheet"
+				href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.css"
+				type="text/css"
+		/>
+
+		<!-- Turf.js plugin -->
+		<script src='https://unpkg.com/@turf/turf/turf.min.js'></script>
+		<script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+
+		<!-- PRICE RANGE JQUERY -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+		<!-- DATA -->
+		<script type="text/javascript" src="stores.js"></script>
+
+
+		<!-- FONTAWESOME ICONS -->
+		<script src="https://kit.fontawesome.com/22883e5dee.js" crossorigin="anonymous"></script>
+
+
+
+		<!--
+        CSS
+        ============================================= -->
+			<link rel="stylesheet" href="css/linearicons.css">
+			<link rel="stylesheet" href="css/owl.carousel.css">
+			<link rel="stylesheet" href="css/font-awesome.min.css">
+			<link rel="stylesheet" href="css/nice-select.css">
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			<link rel="stylesheet" href="css/bootstrap.css">
+			<link rel="stylesheet" href="css/main.css">
+		    <link rel="stylesheet" href="css/map.css">
+		</head>
+		<body>
+
+		<!-- Start Header Area -->
+			<header class="default-header">
+					<nav class="navbar navbar-expand-lg navbar-light">
+
+							  <a class="navbar-brand" href="/">
+							  	<img src="img/logo.png" alt="">
+							  </a>
+							  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+							    <span class="lnr lnr-menu"></span>
+							  </button>
+
+						<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
+							<ul class="navbar-nav">
+								<li><a href="/">Home</a></li>
+								<li><a href="/gyms-near-me">Find A Gym</a></li>
+								<li><a href="/gym-info">Choosing a Gym</a></li>
+								<li><a href="/compare">Compare Gyms</a></li>
+								<li><a href="/contact-us">Advertise</a></li>
+								<!-- Dropdown -->
+								    <li class="dropdown">
+								      <a class="dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+								        More
+								      </a>
+								      <div class="dropdown-menu">
+										  <a class="dropdown-item" href="/contact-us">Contact Us</a>
+										  <a class="dropdown-item" href="/credits">Private Policy</a>
+										  <a class="dropdown-item" href="/credits">Terms of Use</a>
+										  <a class="dropdown-item" href="/credits">Website Credits</a>
+
+									  </div>
+								    </li>
+							    </ul>
+							  </div>
+
+					</nav>
+
+
+					<nav class="navbar navbar-expand-lg navbar-light" style="padding-top: 10px; height: 48px; background-color: #333333; z-index: 1000;">
+						<!-- Promise polyfill script required to use Mapbox GL Geocoder in IE 11 -->
+						<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+						<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+						<div id="geocoder" class="geocoder"></div>
+
+						<!-- RANGE SLIDER
+						<div class="range-slider">
+							<form id="form1" name="form1">
+								<div style="width: 122px; float: left">
+								<select class="form-control form-control-all" id="min-range" data-name="Price Range Min" name="minrange" title="Min price is required" aria-required="true" >
+									<option value="">Min Price</option>
+									<option value="10000">$10,000</option>
+									<option value="20000">$20,000</option>
+									<option value="50000">$50,000</option>
+									<option value="75000">$75,000</option>
+									<option value="100000">$100,000</option>
+									<option value="125000">$125,000</option>
+									<option value="150000">$150,000</option>
+									<option value="175000">$175,000</option>
+									<option value="200000">$200,000</option>
+									<option value="300000">$300,000</option>
+									<option value="500000">$500,000</option>
+									<option value="750000">$750,000</option>
+									<option value="1000000">$1M</option>
+									<option value="1500000">$1.5M</option>
+									<option value="2000000">$2M</option>
+									<option value="2500000">$2.5M</option>
+									<option value="3000000">$3M</option>
+									<option value="3500000">$3.5M</option>
+									<option value="4000000">$4M</option>
+									<option value="4500000">$4.5M</option>
+									<option value="5000000">$5M</option>
+									<option value="10000000">$10M+</option>
+								</select>
+							    </div>
+
+								<div style="width: 25px; float: left; padding: 7px;color: #CBCBA9">
+									<strong>to</strong>
+								</div>
+
+								<div style="width: 122px; float: left; padding-left: 3px;">
+									<select class="form-control form-control-all" id="max-range" data-name="Price Range Max" name="maxrange" title="Max price is required" aria-required="true" >
+										<option value="">Max Price</option>
+										<option value="10000">$10,000</option>
+										<option value="20000">$20,000</option>
+										<option value="50000">$50,000</option>
+										<option value="75000">$75,000</option>
+										<option value="100000">$100,000</option>
+										<option value="125000">$125,000</option>
+										<option value="150000">$150,000</option>
+										<option value="175000">$175,000</option>
+										<option value="200000">$200,000</option>
+										<option value="300000">$300,000</option>
+										<option value="500000">$500,000</option>
+										<option value="750000">$750,000</option>
+										<option value="1000000">$1M</option>
+										<option value="1500000">$1.5M</option>
+										<option value="2000000">$2M</option>
+										<option value="2500000">$2.5M</option>
+										<option value="3000000">$3M</option>
+										<option value="3500000">$3.5M</option>
+										<option value="4000000">$4M</option>
+										<option value="4500000">$4.5M</option>
+										<option value="5000000">$5M</option>
+										<option value="10000000">$10M+</option>
+									</select>
+								</div>
+
+								<div style="float: left; padding: 5px;">
+									<input type="submit">
+								</div>
+
+							</form>
+
+						</div>
+						-->
+
+					</nav>
+
+				</header>
+			<!-- End Header Area -->
+
+               <div id='mainmapdiv'>
+
+				   <div class="loader">
+					   <img src="img\loader.gif" alt="Loading..." title="Loading..." >
+					   <p style="font-size: 30px;"> &nbsp Loading...</p>
+				   </div>
+
+				   <div class="coverscreen">
+					   <div style="padding-top: 300px; margin: auto; align-content: center">
+						   <div style="position: center; text-align: center; right: 50%; font-size: 30px; color: white; padding: 50px; line-height: 30px">
+							   <strong>
+								   👆 Search for gyms near you using the searchbar above 👆
+								   <br>
+								   &nbsp
+								   <br>
+								   Allow 10-20 seconds to calculate the closest gyms to you and to fetch all their data...
+							   </strong>
+							   <div class="loadinggg style-2"><div class="loading-wheel"></div></div>
+							   <style>
+								   .loadinggg {
+									   width: 100%;
+									   height: 100%;
+									   position: fixed;
+									   top: 300px;
+									   right: 0;
+									   bottom: 0;
+									   left: 0;
+								   }
+								   .loading-wheel {
+									   width: 20px;
+									   height: 20px;
+									   margin-top: -40px;
+									   margin-left: -40px;
+
+									   position: absolute;
+									   top: 50%;
+									   left: 50%;
+
+									   border-width: 30px;
+									   border-radius: 50%;
+									   -webkit-animation: spin 1s linear infinite;
+								   }
+								   .style-2 .loading-wheel {
+									   border-style: double;
+									   border-color: #ccc transparent;
+								   }
+								   @-webkit-keyframes spin {
+									   0% {
+										   -webkit-transform: rotate(0);
+									   }
+									   100% {
+										   -webkit-transform: rotate(-360deg);
+									   }
+								   }
+							   </style>
+						   </div>
+					   </div>
+
+					   <div style="font-size: 20px; color: white; position: fixed; left: 50%; bottom: 50px; transform: translate(-50%, -50%); margin: 0 auto;">LOADING GYMS DATA...</div>
+
+				   </div>
+
+					<div id="left">
+
+						<!-- THIS IS THE MAP DIV -->
+						<div id='map'></div>
+
+						<script>
+							/* This will let you use the .remove() function later on */
+							if (!('remove' in Element.prototype)) {
+								Element.prototype.remove = function() {
+									if (this.parentNode) {
+										this.parentNode.removeChild(this);
+									}
+								};
+							}
+
+							mapboxgl.accessToken = 'pk.eyJ1IjoiaGVucnlzaGVsdG9uIiwiYSI6ImNrY3RrMHQ0aTF6NTYyeGxmc3Niazh5eHQifQ.RBR-x4buK_55KQn9JIuPGg';
+
+							var bounds = [
+								[-10.65, 49.87], // Southwest coordinates
+								[2.09, 58.75] // Northeast coordinates
+							];
+
+							var map = new mapboxgl.Map({
+								container: 'map',
+								style: 'mapbox://styles/mapbox/light-v10',
+								center: [-0.118092, 51.509865],
+								maxBounds: bounds,
+								zoom: 12,
+								minZoom: 10,
+								maxZoom: 18,
+								//scrollZoom: false THIS IS OPTIONAL LATER ON
+							});
+
+							var nav = new mapboxgl.NavigationControl();
+							map.addControl(nav, 'top-left');
+
+							// Initialize the geolocate control.
+							map.addControl(
+									new mapboxgl.GeolocateControl({
+										positionOptions: {
+											enableHighAccuracy: true
+										},
+										trackUserLocation: true
+									})
+							);
+
+
+							//THIS IS WHERE GEOJSON DATA LOADS
+
+
+							stores.features.forEach(function(store, i){
+								store.properties.id = i;
+							});
+
+							//adding gym location data as layer to map
+							map.on('load', function() {
+
+								// Add the data to your map as a layer
+								map.addSource('places', {
+									type: 'geojson',
+									data: stores
+								});
+
+								var geocoder = new MapboxGeocoder({
+									accessToken: mapboxgl.accessToken, // Set the access token
+									mapboxgl: mapboxgl, // Set the mapbox-gl instance
+									marker: true, // Use the geocoder's default marker style
+									placeholder: 'Enter an address...',
+									bbox: [-10.65, 49.87, 2.09, 58.75] // Set the bounding box coordinates
+								});
+								document.getElementById('geocoder').appendChild(geocoder.onAdd(map));
+
+								addMarkers();
+
+								var loader = document.querySelector(".loader");
+								loader.className += " hidden"; //loader hitten class
+
+
+								geocoder.on('result', function(ev) {
+
+									var searchResult = ev.result.geometry;
+
+									var options = { units: 'miles' };
+
+									stores.features.forEach(function(store) {
+										Object.defineProperty(store.properties, 'distance', {
+											value: turf.distance(searchResult, store.geometry, options),
+											writable: true,
+											enumerable: true,
+											configurable: true
+										});
+									});
+
+									//LISTING THE STORES IN ORDER OF CLOSEST TO FURTHEST by comparing them all (a vs b)
+									stores.features.sort(function(a, b) {
+										if (a.properties.distance > b.properties.distance) {
+											return 1;
+										}
+										if (a.properties.distance < b.properties.distance) {
+											return -1;
+										}
+										return 0; // a must be equal to b
+									});
+
+									var listings = document.getElementById('listings');
+									while (listings.firstChild) {
+										listings.removeChild(listings.firstChild);
+									}
+
+									buildLocationList(stores);
+									createPopUp(stores.features[0]);
+
+									//HIGHLIGHTS AND CREATES POPUP FOR THE CLOSEST GYM
+									var activeListing = document.getElementById('listing-' + stores.features[0].properties.id);
+									activeListing.classList.add('active');
+
+									var bbox = getBbox(stores, 0, searchResult);
+									map.fitBounds(bbox, {
+										padding: 100
+									});
+									var coverscreen = document.querySelector(".coverscreen");
+									coverscreen.className += " hidden"; //loader hitten class
+								});
+							});
+
+
+							//function to add gym distances to sidebar
+							function getBbox(sortedStores, storeIdentifier, searchResult) {
+								var lats = [
+									sortedStores.features[storeIdentifier].geometry.coordinates[1],
+									searchResult.coordinates[1]
+								];
+								var lons = [
+									sortedStores.features[storeIdentifier].geometry.coordinates[0],
+									searchResult.coordinates[0]
+								];
+								var sortedLons = lons.sort(function(a,b) {
+									if (a > b) { return 1; }
+									if (a.distance < b.distance) { return -1; }
+									return 0;
+								});
+								var sortedLats = lats.sort(function(a,b) {
+									if (a > b) { return 1; }
+									if (a.distance < b.distance) { return -1; }
+									return 0;
+								});
+								return [
+									[sortedLons[0], sortedLats[0]],
+									[sortedLons[1], sortedLats[1]]
+								];
+							}
+
+							//markers on map
+							function addMarkers() {
+
+								stores.features.forEach(function(marker) {
+									/* Create a div element for the marker. */
+									var el = document.createElement('div');
+									/* Assign a unique `id` to the marker. */
+									el.id = "marker-" + marker.properties.id;
+
+									/* Assign the `marker` class to each marker for styling. */
+									el.className = marker.properties.markerid;
+
+									new mapboxgl.Marker(el, {offset: [0, 0]})
+											.setLngLat(marker.geometry.coordinates)
+											.addTo(map);
+
+
+									el.addEventListener('click', function(e){
+										/* Fly to the point */
+										flyToStore(marker);
+										/* Close all other popups and display popup for clicked store */
+										createPopUp(marker);
+										/* Highlight listing in sidebar */
+										var activeItem = document.getElementsByClassName('active');
+										e.stopPropagation();
+										if (activeItem[0]) {
+											activeItem[0].classList.remove('active');
+										}
+										var listing = document.getElementById('listing-' + marker.properties.id);
+										listing.classList.add('active');
+									});
+								});
+							}
+
+							//BUILD THE SIDEBAR
+							function buildLocationList(data) {
+
+								var ShowMore = listings.appendChild(document.createElement('button'));
+								ShowMore.style.position = 'absolute';
+								ShowMore.style.bottom = '0';
+								ShowMore.style.float = 'less';
+								ShowMore.style.padding = '3px';
+								ShowMore.href = '#';
+								ShowMore.className = 'ShowMore';
+								ShowMore.id = 'ShowMore';
+								ShowMore.innerHTML = "SHOW MORE" + '<br>';
+
+								var ShowLess = listings.appendChild(document.createElement('button'));
+								ShowLess.style.position = 'absolute';
+								ShowLess.style.bottom = '0';
+								ShowLess.style.float = 'left';
+								ShowLess.style.left = '100px';
+								ShowLess.style.padding = '3px';
+								ShowLess.href = '#';
+								ShowLess.className = 'ShowLess';
+								ShowLess.id = 'ShowLess';
+								ShowLess.innerHTML = "SHOW LESS";
+
+								// Iterate through the list of stores
+								data.features.forEach(function(store){
+
+									$('.listings .item').hide();
+									$('.listings .item:nth-child(n+1):nth-child(-n+50)').show();
+
+									$('.ShowMore').click(function(){
+										$(this).closest('.listings').find('.item:not(:visible):nth-child(-n+200)').show();
+									})
+
+									$('.ShowLess').click(function(){
+										$(this).closest('.listings').find('.item').hide();
+										$(this).closest('.listings').find('.item:lt(50)').show();
+									})
+
+
+									var prop = store.properties;
+
+									/* Add a new listing section to the sidebar. */
+									var listings = document.getElementById('listings');
+									var listing = listings.appendChild(document.createElement('div'));
+
+									/* Assign a unique `id` to the listing. */
+									listing.id = "listing-" + prop.id;
+									/* Assign the `item` class to each listing for styling. */
+									listing.className = 'item';
+
+									// Create a new link with the class 'title' for each store
+									// and fill it with the store address
+									var link = listing.appendChild(document.createElement('a'));
+									link.href = '#';
+									link.className = 'title';
+									link.id = "link-" + prop.id;
+									link.innerHTML = "<strong style='color: #003366; font-size: 16px;'>" + prop.name + "</strong>";
+
+									//STYLE THE SIDEBAR DIVS
+									var details = listing.appendChild(document.createElement('div'));
+									var GymAddress = prop.address;
+									details.innerHTML = '<i class=\"fas fa-map-marker-alt\" style="color: #306074"></i>&nbsp&nbsp&nbsp&nbsp&nbsp' + GymAddress;
+									if (prop.phone) {
+										details.innerHTML += ' <i class="fas fa-phone" style="color: #306074"></i> ' + prop.phone;
+									}
+									if (prop.joiningfee) {
+										var joiningFee = prop.joiningfee;
+										details.innerHTML += '<br><i class="fas fa-money-bill" style="color: #306074"></i> &nbsp Joining Fee: <strong>' + joiningFee + '</strong></br>';
+									}
+									if (prop.price) {
+										var gymPrice = prop.price;
+										details.innerHTML += '<p style="color: red"><i class="fas fa-pound-sign" style="color: #306074"></i> &nbsp&nbsp&nbsp&nbsp Price: <strong>' + gymPrice + ' / month</strong></p>';
+									}
+									if (prop.gymlink) {
+										var gymLink = prop.gymlink;
+										details.innerHTML += '<i class="fas fa-link" style="color: #306074"></i> &nbsp&nbsp <a target="_blank" rel="noopener noreferrer" href=' + gymLink + '>' + gymLink + '</a>';
+									}
+									if (prop.distance) {
+										var roundedDistance = Math.round(prop.distance*100)/100;
+										details.innerHTML += '<p style="color: darkgreen\t"><i class="fas fa-car" style="color: #306074"> &nbsp&nbsp&nbsp </i><strong>' + roundedDistance + ' miles away</strong></p>';
+									}
+
+									link.addEventListener('click', function(){
+										for (var i=0; i < data.features.length; i++) {
+											if (this.id === "link-" + data.features[i].properties.id) {
+												var clickedListing = data.features[i];
+												flyToStore(clickedListing);
+												createPopUp(clickedListing);
+											}
+										}
+
+										var activeItem = document.getElementsByClassName('active');
+										if (activeItem[0]) {
+											activeItem[0].classList.remove('active');
+										}
+										this.parentNode.classList.add('active');
+									});
+								});
+
+							}
+
+
+							//zoom to location
+							function flyToStore(currentFeature) {
+								map.flyTo({
+									center: currentFeature.geometry.coordinates,
+									essential: true,
+									bearing: 0,
+									curve: 1,
+									zoom: 14,
+									speed: 0.4
+								});
+							}
+
+
+							//popups
+							function createPopUp(currentFeature) {
+								var popUps = document.getElementsByClassName('mapboxgl-popup');
+								// Check if there is already a popup on the map and if so, remove it
+								if (popUps[0]) popUps[0].remove();
+
+								var popup = new mapboxgl.Popup({closeOnClick: true})
+										.setLngLat(currentFeature.geometry.coordinates)
+										.setHTML('<h3 style="font-size: 18px; font-family: Arial; text-align: center; background-color: black;">' + currentFeature.properties.name + '</h3>' +
+												'<h4 style="font-size: 15px; font-family: Arial">From <strong>' + currentFeature.properties.price + '</strong> per month' + '<br>'
+												+ currentFeature.properties.postcode + '<br>'
+												+ '<a target="_blank" rel="noopener noreferrer" href=' + currentFeature.properties.gymlink + '>Click for more info</a>' + '</h4>')
+										.addTo(map);
+							}
+						</script>
+					</div>
+
+					<div id="right">
+						<div class="generic-banner-content">
+							<div class='heading'>
+								<h1 style="text-align: center"><strong>Gyms Near You</strong></h1>
+							</div>
+							<div id='listings' class='listings'>
+							</div>
+						</div>
+					</div>
+			   </div>
+
+			<!-- End banner Area -->
+
+			<script src="js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+			<script src="js/vendor/bootstrap.min.js"></script>
+			<script src="js/owl.carousel.min.js"></script>
+			<script src="js/jquery.sticky.js"></script>
+			<script src="js/jquery.nice-select.min.js"></script>
+			<script src="js/parallax.min.js"></script>
+			<script src="js/jquery.magnific-popup.min.js"></script>
+			<script src="js/main.js"></script>
+		</body>
+	</html>

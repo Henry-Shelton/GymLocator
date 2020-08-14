@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>GL-Contact Us</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--===============================================================================================-->
+	<link rel="icon" href="/img/websiteicon.png">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+<!--===============================================================================================-->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script type="text/javascript" src="mail.js"></script>
+
+	<!-- FONTAWESOME ICONS -->
+	<script src="https://kit.fontawesome.com/22883e5dee.js" crossorigin="anonymous"></script>
+
+
+</head>
+<body>
+
+<header class="default-header">
+	<nav class="navbar navbar-expand-lg  navbar-light">
+		<div class="container">
+			<a class="navbar-brand" href="index.ejs">
+				<img src="img/logo.png" alt="">
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="lnr lnr-menu"></span>
+			</button>
+
+			<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
+				<ul class="navbar-nav">
+					<li><a href="/">Home</a></li>
+					<li><a href="/gyms-near-me">Find A Gym</a></li>
+					<li><a href="/gym-info">Choosing a Gym</a></li>
+					<li><a href="/compare">Compare Gyms</a></li>
+					<li><a href="/contact-us">Advertise</a></li>
+					<!-- Dropdown -->
+					<li class="dropdown">
+						<a class="dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+							More
+						</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="/contact-us">Contact Us</a>
+							<a class="dropdown-item" href="/credits">Private Policy</a>
+							<a class="dropdown-item" href="/credits">Terms of Use</a>
+							<a class="dropdown-item" href="/credits">Website Credits</a>
+
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>
+
+
+	<div class="container-contact100">
+		<div class="wrap-contact100" style="padding-top: 50px">
+
+			<form class="contact100-form validate-form" action="send" method="post">
+				<span class="contact100-form-title">
+					Send Us A Message
+				</span>
+
+				<label class="label-input100" for="name">Name *</label>
+				<div class="wrap-input100 validate-input" data-validate="Type your name">
+					<input id="name" class="input100" type="text" name="name" placeholder="Name">
+					<span class="focus-input100"></span>
+				</div>
+
+				<label class="label-input100" for="email">Enter your email *</label>
+				<div class="wrap-input100 validate-input" data-validate = "Valid email is required">
+					<input id="email" class="input100" type="email" name="email" placeholder="Eg. example@email.com">
+					<span class="focus-input100"></span>
+				</div>
+
+				<label class="label-input100" for="phone">Subject *</label>
+				<div class="wrap-input100 validate-input" data-validate = "Subject is required">
+					<input id="subject" class="input100" type="text" name="subject" placeholder="Email Subject">
+					<span class="focus-input100"></span>
+				</div>
+
+				<label class="label-input100" for="message">Message (include name within) *</label>
+				<div class="wrap-input100 validate-input" data-validate = "Message is required">
+					<textarea id="message" class="input100" name="message" placeholder="Write us a message"></textarea>
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="container-contact100-form-btn">
+					<button type="submit" value="Submit" name="submit" class="contact100-form-btn">
+						Send Message
+					</button>
+				</div>
+			</form>
+
+			<script>
+				$('form').on('submit', (e) => {
+					e.preventDefault();
+
+					const name = $('#name').val().trim();
+					const email = $('#email').val().trim();
+					//const phone = $('#phone').val().trim();
+					const subject = $('#subject').val().trim();
+					const message = $('#message').val().trim();
+
+					const data = {
+						name,
+						email,
+						//phone,
+						subject,
+						message
+					}
+
+					$.post('/email', data, function() {
+						console.log('Data recieved by server');
+						alert("Your email has been submitted!");
+						//add popup here
+					});
+				});
+			</script>
+
+			<div class="contact100-more flex-col-c-m" style="background-image: url('contactformpic.jpg')">
+
+				<div class="dis-flex size1 p-b-47">
+					<div class="txt1 p-r-25">
+						<span class="lnr lnr-code"></span>
+					</div>
+
+					<div class="flex-col size2">
+						<span class="txt1 p-b-20">
+							Business Inquiries
+						</span>
+
+						<span class="txt3">
+							If interested in purchasing AD space, adding a gym(s) or have other inquiries - find the email below.
+						</span>
+					</div>
+				</div>
+
+				<div class="dis-flex size1 p-b-47">
+					<div class="txt1 p-r-25">
+						<span class="lnr lnr-envelope"></span>
+					</div>
+
+					<div class="flex-col size2">
+						<span class="txt1 p-b-20">
+							Suggestions / Inquiries
+						</span>
+
+						<span class="txt3">
+							Henry.Shelton@outlook.com
+						</span>
+					</div>
+				</div>
+
+				<div class="dis-flex size1 p-b-47">
+					<div class="txt1 p-r-25">
+						<span class="lnr lnr-question-circle"></span>
+					</div>
+
+					<div class="flex-col size2">
+						<span class="txt1 p-b-20">
+							About this website
+						</span>
+
+						<span class="txt2">
+							This website was developed by Henry Shelton. Im a 2nd year uni student studying biochem (neuroscience) with an interest in programming, software and webdev. I decided to create this project to learn more about programming in different coding languages (python, javascript, HTML, PHP) over the lockdown period and to refine what I had learnt. Im completely self taught so the actual code and construction is quite blotchy - but gets the job done. It was created in WebStorms using NodeJS. I intend to make further improvements in the near before starting on new projects. Any suggestions and improvements are welcome! Feel free to contact me if you are interested in collaborating.
+						</span>
+					</div>
+				</div>
+
+				<div class="flex-col size2">
+					<span style="font-size: 15px; margin: auto;"><span class="txt1 p-b-20">
+							My Socials
+						</span></span>
+					<section data-social>
+						<a href="https://twitter.com/HenryShelton_" target="_blank" class="ion-social-twitter" style="font-size: 15px;"><span><i class="fab fa-twitter" style="color: black; font-size: 15px;"></i> Twitter &nbsp</span></a>
+						<a href="https://www.reddit.com/user/AroxCx/" target="_blank" class="ion-social-reddit" style="font-size: 15px;"><span><i class="fab fa-reddit" style="color: black; font-size: 15px;"></i> Reddit &nbsp</span></a>
+						<a href="https://www.linkedin.com/in/henry-shelton-8b9621195/" target="_blank" class="ion-social-linkedin" style="font-size: 15px;"><span><i class="fab fa-linkedin" style="color: black; font-size: 15px;"></i> LinkedIn &nbsp</span></a>
+						<a href="https://discord.gg/vQpFBFM" target="_blank" class="ion-social-discord" style="font-size: 15px;"><span><i class="fab fa-discord" style="color: black; font-size: 15px;"></i> Discord &nbsp</span></a>
+						<style>
+							* {
+								box-sizing: border-box;
+							}
+							[data-social] {
+								margin: 1em auto;
+							}
+							[data-social]:after {
+								content: '';
+								display: block;
+								clear: both;
+							}
+							[data-social] a {
+								display: inline-block;
+								font-family: sans-serif;
+								line-height: 1;
+								padding: .5em;
+								float: left;
+								color: white;
+								font-size: 15pt;
+								min-width: 1em;
+								text-align: center;
+								text-decoration: none;
+								transition: opacity .2s ease-in-out;
+							}
+							[data-social] a:focus,
+							[data-social] a:hover {
+								opacity: .7;
+							}
+							[data-social] a span {
+								margin-left: .5em;
+							}
+							[data-social] [class*=discord] {
+								background: #7289da;
+								border-radius: 25px;
+							}
+							[data-social] [class*=twitter] {
+								background: #2caae1;
+								border-radius: 25px;
+							}
+							[data-social] [class*=reddit] {
+								background: #ff4301;
+								border-radius: 25px;
+							}
+							[data-social] [class*=linkedin] {
+								background: #007bb6;
+								border-radius: 25px;
+							}
+							[data-social] a:nth-of-type(n+2) {
+								margin-left: .5em;
+							}
+							@element '[data-social] a' and (max-width: 15em) {
+							$this span {
+								display: none;
+							}
+							}
+							@element '[data-social] a' {
+							$this {
+								width: calc(eval('100 / parentNode.children.length')% - .5em + eval('.5 / parentNode.children.length')em);
+							}
+							}
+						</style>
+					</section>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+
+
+	<div id="dropDownSelect1"></div>
+
+<!--===============================================================================================-->
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+	<script>
+		$(".selection-2").select2({
+			minimumResultsForSearch: 20,
+			dropdownParent: $('#dropDownSelect1')
+		});
+	</script>
+<!--===============================================================================================-->
+	<script src="vendor/daterangepicker/moment.min.js"></script>
+	<script src="vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-23581568-13');
+	</script>
+</body>
+</html>

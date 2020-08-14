@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gym_locator.iml" filepath="$PROJECT_DIR$/.idea/gym_locator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web scraper/.idea/scraper.iml" filepath="$PROJECT_DIR$/../web scraper/.idea/scraper.iml" />
+    </modules>
+  </component>
+</project>
