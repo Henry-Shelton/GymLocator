@@ -273,3 +273,7 @@ app.use(function(err, req, res) {
 });
 0
 module.exports = app;
+
+app.listen(3000, () => {
+  console.log('App listening on port 3000!');
+})
