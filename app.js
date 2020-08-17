@@ -248,14 +248,14 @@ app.get('/billing', function(req, res, next) {
   });
 })
 
-*/
-
 //ROBOTS TXT
 
 app.get('/robots.txt', function (req, res) {
   res.type('text/plain');
   res.send("User-agent: *\nDisallow: /");
 });
+
+*/
 
 // CATCH THE 404 ERROR AND PASS IT TO ERROR HANDLER
 
@@ -277,6 +277,7 @@ app.use(function(err, req, res) {
 0
 module.exports = app;
 
+//CHANGE IF BAD GATEWAY 502 - 3000 FOR WWW. OR 5000 FOR TESTING PURPOSES ON LOCALHOST:5000
 app.listen(3000, () => {
   console.log('App listening on port 3000!');
 })
