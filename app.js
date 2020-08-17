@@ -6,10 +6,10 @@ var logger = require('morgan');
 
 var mongoose = require('mongoose');
 require('./models');
-var bcrypt = require('bcrypt');
+//var bcrypt = require('bcryptjs'); - NOT IN USE WITHOUT APP
 var expressSession = require('express-session')
 var passport = require('passport');
-var localStrategy = require('passport-local').Strategy;
+//var localStrategy = require('passport-local').Strategy; - NOT IN USE WITHOUT APP
 var dotenv = require('dotenv');
 dotenv.config();
 
@@ -37,8 +37,8 @@ app.use(express.urlencoded({
 // Use body-parser to retrieve the raw body as a buffer
 const bodyParser = require('body-parser');
 
-//dependencies for contact forms
-const nodemailer = require('nodemailer')
+//dependencies for contact forms - NOT IN USE WITHOUT APP
+//const nodemailer = require('nodemailer')
 
 // Match the raw body to content type application/json
 app.post('/pay-success', bodyParser.raw({type: 'application/json'}), (request, response) => {
@@ -146,12 +146,12 @@ passport.serializeUser(function(user, next) {
 //rendering of different html pages for website//
 
 //LANDING PAGE
-app.get('/', function(req, res, next) {
+app.get('/', function(req, res) {
   res.render('index', {title: "Langing Page"})
 })
 
 //MAP PAGE
-app.get('/gyms-near-me', function(req, res, next) {
+app.get('/gyms-near-me', function(req, res) {
   res.render('gyms-near-me')
 })
 
@@ -181,7 +181,7 @@ app.post('/email', (req, res) => {
   const { name, email, subject, message} = req.body;
   console.log('Data: ', req.body);
 
-  sendMail(name, email, subject, message, function(err, data) {
+  sendMail(name, email, subject, message, function(err) {
     if (err) {
       res.status(500).json({ message: 'Internal Error' });
     } else {
@@ -256,7 +256,7 @@ app.use(function(req, res, next) {
 
 // ERROR HANDLER
 
-app.use(function(err, req, res, next) {
+app.use(function(err, req, res) {
   // set locals, only providing error in development
   res.locals.message = err.message;
   res.locals.error = req.app.get('env') === 'development' ? err : {};
