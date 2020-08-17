@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://covlock.com/</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://covlock.com/img/logo.png</image:loc>
+        <image:title>gyms near me</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://covlock.com/img/header-img.png</image:loc>
+        <image:title>gyms near me</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://covlock.com/contact-us</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://covlock.com/img/logo.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://covlock.com/credits</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://covlock.com/img/logo.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://covlock.com/gym-info</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://covlock.com/img/logo.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://covlock.com/gyms-near-me</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://covlock.com/img/logo.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://covlock.com/compare</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
