@@ -15,9 +15,9 @@ var expressSession = require('express-session')
 
 //const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY, {apiVersion: ''});
 
-const nodemailer = require('nodemailer')
-const sendMail = require('./mail');
 const mailGun = require('nodemailer-mailgun-transport');
+const nodemailer = require('nodemailer')
+const sendMail = require('./public/js/mail');
 
 //var User = mongoose.model('User');
 //mongoose.connect('mongodb://localhost:27017/Web-App-DB', { useNewUrlParser: true, useUnifiedTopology: true})
@@ -185,7 +185,7 @@ app.get('/credits', (req, res) => {
 //CONTACT US BACKEND
 app.post('/email', (req, res) => {
   //send email here
-  const { name, email, subject, message} = req.body;
+  const {name, email, subject, message} = req.body;
   console.log('Data: ', req.body);
 
   sendMail(name, email, subject, message, function(err) {
@@ -249,7 +249,9 @@ app.get('/billing', function(req, res, next) {
 })
 
 */
+
 //ROBOTS TXT
+
 app.get('/robots.txt', function (req, res) {
   res.type('text/plain');
   res.send("User-agent: *\nDisallow: /");
@@ -275,6 +277,6 @@ app.use(function(err, req, res) {
 0
 module.exports = app;
 
-app.listen(3000, () => {
+app.listen(5000, () => {
   console.log('App listening on port 3000!');
 })
