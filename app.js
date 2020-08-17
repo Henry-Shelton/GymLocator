@@ -15,7 +15,9 @@ var expressSession = require('express-session')
 
 //const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY, {apiVersion: ''});
 
+const nodemailer = require('nodemailer')
 const sendMail = require('./mail');
+const mailGun = require('nodemailer-mailgun-transport');
 
 //var User = mongoose.model('User');
 //mongoose.connect('mongodb://localhost:27017/Web-App-DB', { useNewUrlParser: true, useUnifiedTopology: true})
@@ -38,7 +40,6 @@ app.use(express.urlencoded({
 //const bodyParser = require('body-parser');
 
 //dependencies for contact forms - NOT IN USE WITHOUT APP
-//const nodemailer = require('nodemailer')
 
 // Match the raw body to content type application/json
 /*
