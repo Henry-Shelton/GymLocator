@@ -4,21 +4,21 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
-var mongoose = require('mongoose');
-require('./models');
+//var mongoose = require('mongoose');
+//require('./models');
 //var bcrypt = require('bcryptjs'); - NOT IN USE WITHOUT APP
 var expressSession = require('express-session')
-var passport = require('passport');
+//var passport = require('passport');
 //var localStrategy = require('passport-local').Strategy; - NOT IN USE WITHOUT APP
-var dotenv = require('dotenv');
-dotenv.config();
+//var dotenv = require('dotenv');
+//dotenv.config();
 
-const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY, {apiVersion: ''});
+//const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY, {apiVersion: ''});
 
 const sendMail = require('./mail');
 
-var User = mongoose.model('User');
-mongoose.connect('mongodb://localhost:27017/Web-App-DB', { useNewUrlParser: true, useUnifiedTopology: true})
+//var User = mongoose.model('User');
+//mongoose.connect('mongodb://localhost:27017/Web-App-DB', { useNewUrlParser: true, useUnifiedTopology: true})
 
 var app = express();
 
@@ -35,12 +35,13 @@ app.use(express.urlencoded({
 
 //STRIPE WEBHOOK PARSER - extra code so doesnt interfere with express json parser
 // Use body-parser to retrieve the raw body as a buffer
-const bodyParser = require('body-parser');
+//const bodyParser = require('body-parser');
 
 //dependencies for contact forms - NOT IN USE WITHOUT APP
 //const nodemailer = require('nodemailer')
 
 // Match the raw body to content type application/json
+/*
 app.post('/pay-success', bodyParser.raw({type: 'application/json'}), (request, response) => {
   const sig = request.headers['stripe-signature'];
 
@@ -73,6 +74,7 @@ app.post('/pay-success', bodyParser.raw({type: 'application/json'}), (request, r
   // Return a response to acknowledge receipt of the event
   response.json({received: true});
 });
+ */
 
 app.use(logger('dev'));
 ///expresses data submitted by clients into json format to the server (login/contact posts)
@@ -89,11 +91,10 @@ app.use(expressSession({
   resave: true,
   saveUninitialized: true
 }));
-app.use(passport.initialize());
-app.use(passport.session());
+//app.use(passport.initialize());
+//app.use(passport.session());
 
 /*
-//lol
 //passport method using localstrategy for signup (serialize/deserialize in session)
 passport.use('signup-local', new localStrategy({
   usernameField: "email",
