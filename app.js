@@ -263,6 +263,13 @@ app.use(function(req, res, next) {
   next(createError(404));
 });
 
+//SITEMAP
+
+app.get('/sitemap', function(req, res){
+  res.contentType('application/xml');
+  res.sendFile(path.join(__dirname , 'sitemap.xml'));
+});
+
 // ERROR HANDLER
 
 app.use(function(err, req, res) {
@@ -278,6 +285,6 @@ app.use(function(err, req, res) {
 module.exports = app;
 
 //CHANGE IF BAD GATEWAY 502 - 3000 FOR WWW. OR 5000 FOR TESTING PURPOSES ON LOCALHOST:5000
-app.listen(3000, () => {
+app.listen(5000, () => {
   console.log('App listening on port 3000!');
 })
