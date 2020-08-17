@@ -84,7 +84,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(expressSession({
-  //secret: process.env.EXPRESS_SESSION_SECRET,
+  secret: 'if4w9jfu4wnfb48wf047f08wfh4nf94b9pnf489wngf94png94nwfpn4w89pfn49',
   //name: cookie_name,
   //store: sessionStore, // connect-mongo session store
   proxy: true,
