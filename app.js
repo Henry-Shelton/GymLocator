@@ -88,7 +88,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 /*
-
+//lol
 //passport method using localstrategy for signup (serialize/deserialize in session)
 passport.use('signup-local', new localStrategy({
   usernameField: "email",
