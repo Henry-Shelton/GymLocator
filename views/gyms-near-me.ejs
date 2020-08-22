@@ -211,58 +211,57 @@
 				   </div>
 
 				   <div class="coverscreen">
-					   <div style="padding-top: 300px; margin: auto; align-content: center">
-						   <div style="position: center; text-align: center; right: 50%; font-size: 30px; color: white; padding: 50px; line-height: 30px">
+					   <div style="padding-top: 300px">
+						   <div style="position: center; margin: auto; align-content: center; text-align: center; right: 50%; font-size: 30px; color: white; line-height: 50px">
 							   <strong>
-								   👆 Search for gyms near you using the searchbar above 👆
+								   ↑
 								   <br>
-								   &nbsp
-								   <br>
-								   Allow 10-20 seconds to calculate the closest gyms to you and to fetch all their data...
+								   SEARCH FOR GYMS USING THE SEARCHBAR ABOVE
 							   </strong>
-							   <div class="loadinggg style-2"><div class="loading-wheel"></div></div>
-							   <style>
-								   .loadinggg {
-									   width: 100%;
-									   height: 100%;
-									   position: fixed;
-									   top: 300px;
-									   right: 0;
-									   bottom: 0;
-									   left: 0;
-								   }
-								   .loading-wheel {
-									   width: 20px;
-									   height: 20px;
-									   margin-top: -40px;
-									   margin-left: -40px;
-
-									   position: absolute;
-									   top: 50%;
-									   left: 50%;
-
-									   border-width: 30px;
-									   border-radius: 50%;
-									   -webkit-animation: spin 1s linear infinite;
-								   }
-								   .style-2 .loading-wheel {
-									   border-style: double;
-									   border-color: #ccc transparent;
-								   }
-								   @-webkit-keyframes spin {
-									   0% {
-										   -webkit-transform: rotate(0);
-									   }
-									   100% {
-										   -webkit-transform: rotate(-360deg);
-									   }
-								   }
-							   </style>
 						   </div>
+
+						   <div class="loadinggg style-2">
+							   <div style="position: fixed; top: 700px; margin: 0 auto; left: 50%; transform: translateX(-50%); font-size: 20px; color: white;">LOADING GYMS DATA...</div>
+							   <div class="loading-wheel"></div></div>
+						   <style>
+							   .loadinggg {
+								   position: fixed;
+								   width: 100%;
+								   height: 100%;
+								   top: 300px;
+								   right: 0;
+								   bottom: 0;
+								   left: 0;
+								   margin: 0;
+							   }
+							   .loading-wheel {
+								   width: 20px;
+								   height: 20px;
+								   margin-top: -40px;
+								   margin-left: -40px;
+
+								   position: fixed;
+								   top: 650px;
+								   left: 50%;
+
+								   border-width: 30px;
+								   border-radius: 50%;
+								   -webkit-animation: spin 1s linear infinite;
+							   }
+							   .style-2 .loading-wheel {
+								   border-style: double;
+								   border-color: #ccc transparent;
+							   }
+							   @-webkit-keyframes spin {
+								   0% {
+									   -webkit-transform: rotate(0);
+								   }
+								   100% {
+									   -webkit-transform: rotate(-360deg);
+								   }
+							   }
+						   </style>
 					   </div>
-
-					   <div style="font-size: 20px; color: white; position: fixed; left: 50%; bottom: 50px; transform: translate(-50%, -50%); margin: 0 auto;">LOADING GYMS DATA...</div>
-
 				   </div>
 
 					<div id="left">
@@ -337,8 +336,6 @@
 								});
 								document.getElementById('geocoder').appendChild(geocoder.onAdd(map));
 
-								addMarkers();
-
 								var loader = document.querySelector(".loader");
 								loader.className += " hidden"; //loader hitten class
 
@@ -368,13 +365,16 @@
 										}
 										return 0; // a must be equal to b
 									});
+									localStorage.setItem('TopFiftyPlaces', JSON.stringify(stores.features.slice(0, 100)));
+									const topFifty = JSON.parse(localStorage.getItem('TopFiftyPlaces'));
 
 									var listings = document.getElementById('listings');
 									while (listings.firstChild) {
 										listings.removeChild(listings.firstChild);
 									}
 
-									buildLocationList(stores);
+									buildLocationList(topFifty);
+									addMarkers(topFifty);
 									createPopUp(stores.features[0]);
 
 									//HIGHLIGHTS AND CREATES POPUP FOR THE CLOSEST GYM
@@ -418,9 +418,9 @@
 							}
 
 							//markers on map
-							function addMarkers() {
+							function addMarkers(data) {
 
-								stores.features.forEach(function(marker) {
+								data.forEach(function(marker) {
 									/* Create a div element for the marker. */
 									var el = document.createElement('div');
 									/* Assign a unique `id` to the marker. */
@@ -454,42 +454,8 @@
 							//BUILD THE SIDEBAR
 							function buildLocationList(data) {
 
-								var ShowMore = listings.appendChild(document.createElement('button'));
-								ShowMore.style.position = 'absolute';
-								ShowMore.style.bottom = '0';
-								ShowMore.style.float = 'less';
-								ShowMore.style.padding = '3px';
-								ShowMore.href = '#';
-								ShowMore.className = 'ShowMore';
-								ShowMore.id = 'ShowMore';
-								ShowMore.innerHTML = "SHOW MORE" + '<br>';
-
-								var ShowLess = listings.appendChild(document.createElement('button'));
-								ShowLess.style.position = 'absolute';
-								ShowLess.style.bottom = '0';
-								ShowLess.style.float = 'left';
-								ShowLess.style.left = '100px';
-								ShowLess.style.padding = '3px';
-								ShowLess.href = '#';
-								ShowLess.className = 'ShowLess';
-								ShowLess.id = 'ShowLess';
-								ShowLess.innerHTML = "SHOW LESS";
-
 								// Iterate through the list of stores
-								data.features.forEach(function(store){
-
-									$('.listings .item').hide();
-									$('.listings .item:nth-child(n+1):nth-child(-n+50)').show();
-
-									$('.ShowMore').click(function(){
-										$(this).closest('.listings').find('.item:not(:visible):nth-child(-n+200)').show();
-									})
-
-									$('.ShowLess').click(function(){
-										$(this).closest('.listings').find('.item').hide();
-										$(this).closest('.listings').find('.item:lt(50)').show();
-									})
-
+								data.forEach(function(store){
 
 									var prop = store.properties;
 
@@ -549,7 +515,39 @@
 										}
 										this.parentNode.classList.add('active');
 									});
+
+									$('.listings .item').hide();
+									$('.listings .item:nth-child(n+1):nth-child(-n+100)').show();
+
+									$('.ShowMore').click(function(){
+										$(this).closest('.listings').find('.item:not(:visible):nth-child(-n+25)').show();
+									})
+
+									$('.ShowLess').click(function(){
+										$(this).closest('.listings').find('.item').hide();
+										$(this).closest('.listings').find('.item:lt(25)').show();
+									})
 								});
+
+								var ShowMore = listings.appendChild(document.createElement('button'));
+								ShowMore.style.position = 'static';
+								ShowMore.style.bottom = '0';
+								ShowMore.style.float = 'left';
+								ShowMore.style.padding = '3px';
+								ShowMore.href = '#';
+								ShowMore.className = 'ShowMore';
+								ShowMore.id = 'ShowMore';
+								ShowMore.innerHTML = "SHOW MORE" + '<br>';
+
+								var ShowLess = listings.appendChild(document.createElement('button'));
+								ShowLess.style.position = 'static';
+								ShowLess.style.bottom = '0';
+								ShowLess.style.float = 'left';
+								ShowLess.style.padding = '3px';
+								ShowLess.href = '#';
+								ShowLess.className = 'ShowLess';
+								ShowLess.id = 'ShowLess';
+								ShowLess.innerHTML = "SHOW LESS";
 
 							}
 
