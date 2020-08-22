@@ -33,13 +33,6 @@ $(document).ready(function(){
   //     $('.navbar-collapse').collapse('hide');
   // });
 
-  //  Counter Js 
-
-  $('.counter').counterUp({
-      delay: 10,
-      time: 1000
-  });
-
 
   $('.play-btn').magnificPopup({
     type: 'iframe',
@@ -108,11 +101,6 @@ $(document).ready(function(){
     }
   }
   });
-
-
-      $(document).ready(function() {
-          $('#mc_embed_signup').find('form').ajaxChimp();
-      });   
 
  });
 
