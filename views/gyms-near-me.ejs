@@ -501,9 +501,9 @@
 									}
 
 									link.addEventListener('click', function(){
-										for (var i=0; i < data.features.length; i++) {
-											if (this.id === "link-" + data.features[i].properties.id) {
-												var clickedListing = data.features[i];
+										for (var i=0; i < data.length; i++) {
+											if (this.id === "link-" + data[i].properties.id) {
+												var clickedListing = data[i];
 												flyToStore(clickedListing);
 												createPopUp(clickedListing);
 											}
