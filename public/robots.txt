@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /gyms-near-me
+Sitemap: https://www.covlock.com/sitemap.xml
