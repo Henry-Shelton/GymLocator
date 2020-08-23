@@ -1,3 +1,10 @@
-User-agent: *
-Disallow: /gyms-near-me
+User-agent: Googlebot
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
 Sitemap: https://www.covlock.com/sitemap.xml
