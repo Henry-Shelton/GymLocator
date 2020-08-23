@@ -366,7 +366,7 @@
 										return 0; // a must be equal to b
 									});
 									localStorage.setItem('TopFiftyPlaces', JSON.stringify(stores.features.slice(0, 100)));
-									const topFifty = JSON.parse(localStorage.getItem('TopFiftyPlaces'));
+									var topFifty = JSON.parse(localStorage.getItem('TopFiftyPlaces'));
 
 									var listings = document.getElementById('listings');
 									while (listings.firstChild) {
