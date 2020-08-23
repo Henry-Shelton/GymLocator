@@ -293,6 +293,6 @@ app.use(function(err, req, res) {
 module.exports = app;
 
 //CHANGE IF BAD GATEWAY 502 - 3000 FOR WWW. OR 5000 FOR TESTING PURPOSES ON LOCALHOST:5000
-app.listen(3000, () => {
+app.listen(5000, () => {
   console.log('App listening on port 3000!');
 })
