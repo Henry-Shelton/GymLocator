@@ -21180,6 +21180,886 @@ var stores = {
           "type": "Gym",
           "gymlink": "https://www.energiefitness.com/WOOLWICH"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.122814,
+            52.480069
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Brierley Hill Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Brierley Hill Gym / 17-23 High Street / Brierley Hill / Dudley / West Midlands / DY5 3AB",
+          "postcode": "DY5 3AB",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.426888,
+            53.230279
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Chesterfield Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Chesterfield Gym / Unit 4 / Spire Walk Business Park / Spire Walk / Derby Road / Chesterfield / Derbyshire / S40 2WG",
+          "postcode": "S40 2WG",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.341896,
+            53.710173
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Castleford Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Castleford Gym / Xscape Castleford / Colorado Way / Castleford / West Yorkshire / WF10 4TA",
+          "postcode": "WF10 4TA",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.989419,
+            55.946821
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Cumbernauld Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Cumbernauld Gym / Forth Walk / Cumbernauld Shopping Centre / Central Way / Cumbernauld / Glasgow / G67 1BT",
+          "postcode": "G67 1BT",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.24256,
+            53.791202
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Burnley Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Burnley Gym / Kingsway House / Kingsway / Burnley / Lancashire / BB11 1BJ",
+          "postcode": "BB11 1BJ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.534804,
+            51.479746
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Bristol Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Brierley Hill Gym / 2 Channons Hill Retail Park / Channons Hill / Bristol / BS16 2EA",
+          "postcode": "BS16 2EA",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.551956,
+            54.533333
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Darlington Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Darlington Gym / John St / Darlington / County Durham / DL1 1LG",
+          "postcode": "DL1 1LG",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.148358,
+            53.531647
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Doncaster Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Doncaster Gym / 171 York Road / Doncaster / South Yorkshire / DN5 8XG",
+          "postcode": "DN5 8XG",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.969431,
+            56.463947
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Dundee Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Dundee Gym / Wellgate Shopping Centre / Victoria Road / Dundee / Scotland / DD1 2DB",
+          "postcode": "DD1 2DB",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4.162721,
+            55.751851
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less East Kilbride Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less East Kilbride Gym / The Boardwalk / 1 Stroud Road / East Kilbride / Glasgow / Scotland / G75 0YW",
+          "postcode": "G75 0YW",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.782131,
+            55.999203
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Falkirk Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Falkirk Gym / 1 Callendar Square Shopping Centre / High Street / Falkirk / Stirlingshire / FK1 1UJ",
+          "postcode": "FK1 1UJ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.284889,
+            55.915501
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Edinburgh Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Edinburgh Gym / West Side Plaza Shopping Centre / Wester Hailes Road / Edinburgh / Scotland / EH14 2SW",
+          "postcode": "EH14 2SW",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4.259825,
+            55.865412
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Glasgow Central Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Glasgow Gym / 200 Sauchiehall St / Glasgow / G2 3DZ",
+          "postcode": "G2 3DZ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4.036985,
+            55.774365
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Hamilton Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Hamilton Gym / Unit 14/15 New Cross Shopping Centre / Quarry Street / Hamilton / South Lanarkshire / ML3 6AH",
+          "postcode": "ML3 6AH",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.09256,
+            51.769385
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Harlow Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Harlow Gym / Unit C 36 Broadwalk / Harvey Centre / Harvey Approach / Harlow / Essex / CM20 1XR",
+          "postcode": "CM20 1XR",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.213826,
+            54.684569
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Hartlepool Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Hartlepool Gym / Middleton Grange Shopping Centre (above H&amp;M) / Stockton Street / Hartlepool / County Durham / TS24 7RZ",
+          "postcode": "TS24 7RZ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.369317,
+            51.466988
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Hounslow Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Hounslow Gym / 80-82 Staines Road / Hounslow / Greater London / TW3 3LF",
+          "postcode": "TW3 3LF",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.348604,
+            53.767968
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Hull Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Hull Gym / Clough Road / Hull / East Riding / Yorkshire / HU5 1SR",
+          "postcode": "HU5 1SR",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.579389,
+            53.803682
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Leeds Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Leeds Gym / Industrial Estate / 1 Kirkstall Rd / Leeds / LS4 2AZ",
+          "postcode": "LS4 2AZ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.460433,
+            53.827727
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Leeds North Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4less Leeds (North) Gym / Temple House / Ramshead Approach / Ring Road / Seacroft / Leeds West Yorkshire / LS14 1NH",
+          "postcode": "LS14 1NH",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.859918,
+            53.390575
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Liverpool (Belle Vale) Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Liverpool (Belle Vale) Gym / Belle Vale Shopping Centre / Childwall Valley Road / Liverpool / Merseyside / L25 2RF",
+          "postcode": "L25 2RF",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.533006,
+            55.881009
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Livingston Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Livingston Gym / New Logic House / Kirkton South Road / Livingston / West Lothian / EH54 7DE",
+          "postcode": "EH54 7DE",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.866713,
+            53.357914
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Liverpool Speke Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Liverpool Speke Gym / D-F Capital House / Hunts Cross Retail Park / Speke Hall Road / Liverpool / Merseyside / L24 9GB",
+          "postcode": "L24 9GB",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.201051,
+            53.548242
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Manchester Middleton Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Manchester Middleton / 1st Floor Middleton Shopping Centre / Limetrees Road / Middleton / Rochdale / Greater Manchester / M24 4EL",
+          "postcode": "M24 4EL",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.188267,
+            53.156342
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Mansfield Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Mansfield Gym / Millway / Old Mill Lane / Mansfield Woodhouse / Mansfield / Nottinghamshire / NG19 9BG",
+          "postcode": "NG19 9BG",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.76353,
+            52.026795
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Milton Keynes Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Milton Keynes Gym / WINTERHILL HOUSE / Snowdon Dr / Milton Keynes / MK6 1AP",
+          "postcode": "MK6 1AP",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.22345,
+            53.011493
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Newcastle-under-Lyme Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Newcastle Under Lyme / 1-2 Barracks Road / Newcastle under Lyme / ST5 1AW ",
+          "postcode": "ST5 1AW ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.944086,
+            51.577503
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Newport Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Newport Gym / 3 Newport Leisure Park / Spytty Park / Seven Stiles Avenue / Liswerry / Newport Wales / NP19 4QQ",
+          "postcode": "NP19 4QQ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.464948,
+            54.996977
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less North Shields Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less North Shields Gym / Coble Dene / Royal Quays / North Shields / Tyne and Wear / NE29 6DE",
+          "postcode": "NE29 6DE",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.184109,
+            52.957352
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Nottingham Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Nottingham Gym / 2-6 / Chettles Trade Park / Midland Way (Off Ilkeston Road) / Nottingham / Nottinghamshire / NG7 3AG",
+          "postcode": "NG7 3AG",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4.402118,
+            55.881923
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Renfrew Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Renfrew Gym / 17-18 / Renfrew Retail Park / Renfrew / Renfrewshire / PA4 9EN",
+          "postcode": "PA4 9EN",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.363253,
+            53.433974
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Rotherham Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Rotherham Gym / Greasborough Street / Rotherham / S60 1LD",
+          "postcode": "S60 1LD",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.260819,
+            52.379687
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Rugby Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Rugby Gym / 90 Newbold Road / Rugby / CV21 2YX ",
+          "postcode": "CV21 2YX ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.538615,
+            55.021748
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Newcastle-upon-Tyne Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Newcastle-Upon-Tyne Gym / 2 Whitley Road Leisure Park / Newcastle-upon-Tyne / Tyne and Wear / NE12 9SR",
+          "postcode": "NE12 9SR",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.471236,
+            53.363509
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Sheffield - Guernsey Road Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Sheffield Gym / 17 Guernsey Road / Sheffield / South Yorkshire / S2 4HG",
+          "postcode": "S2 4HG",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.495835,
+            53.418391
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Sheffield Hillsborough Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Sheffield Hillsborough Gym / Units 10 &amp; 10a / Kilner Way / Kilner Way Retail Park / Sheffield / South Yorkshire / S6 1NN",
+          "postcode": "S6 1NN",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.71905,
+            52.738419
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Shrewsbury Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Shrewsbury Gym / 1C / Sundorne Retail Park / Arlington Way / Shrewsbury / Shropshire / SY1 4YA",
+          "postcode": "SY1 4YA",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.718628,
+            51.575654
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Southend Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Southend Gym / 10 Purdeys Way / Rochford / Southend-on-Sea / SS4 1NE",
+          "postcode": "SS4 1NE",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.752173,
+            53.450712
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less St Helens Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less St Helens Gym / Boundary Road / St Helens / Merseyside / WA10 2PX",
+          "postcode": "WA10 2PX",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.353631,
+            54.592622
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Stockton North Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Stockton (North) Gym / Tesco Extra / Durham Road / Stockton / Stockton-on-Tees / TS21 3LU",
+          "postcode": "TS21 3LU",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.153895,
+            52.996087
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Stoke Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Stoke-on-Trent Gym / China Street (Off King Street) / Fenton / Stoke / Staffordshire / ST4 3NJ",
+          "postcode": "ST4 3NJ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.938303,
+            51.621849
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Swansea Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Swansea Gym / 3 Parc Tawe (North) Retail Park / Swansea / Glamorgan / Wales / SA1 2AL",
+          "postcode": "SA1 2AL",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.589833,
+            53.390932
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Warrington Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Warrington Gym / The Cockhedge Centre / Brick Street / Warrington / Cheshire / WA1 2QQ",
+          "postcode": "WA1 2QQ",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.630274,
+            53.542849
+          ]
+        },
+        "properties": {
+          "name": "Xercise4Less Wigan Gym",
+          "price": "\u00c2\u00a39.99",
+          "address": "Xercise4Less Wigan Gym / Chapel Ln / Wigan / WN1 1DU",
+          "postcode": "WN1 1DU",
+          "joiningfee": "\u00a30",
+          "markerid": "xercise4lessmarker",
+          "type": "Gym",
+          "gymlink": "null"
+        }
       }
 ]
 };
