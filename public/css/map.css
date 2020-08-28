@@ -307,6 +307,14 @@ a:hover {
     background-image: url(map_icons/bettergym.png);
 }
 
+.energiefitnessmarker {
+    border: none;
+    cursor: pointer;
+    height: 33px;
+    width: 20px;
+    background-image: url(map_icons/energiefitness.png);
+}
+
 .mapboxgl-popup {
     padding-bottom: 20px;
 }

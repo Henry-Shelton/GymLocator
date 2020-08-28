@@ -18,6 +18,7 @@ var stores = {
       "postcode": "SP11 8BF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -38,6 +39,7 @@ var stores = {
       "postcode": "L9 5BD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -58,6 +60,7 @@ var stores = {
       "postcode": "HP20 1DG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -78,6 +81,7 @@ var stores = {
       "postcode": "WA14 1EJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -98,6 +102,7 @@ var stores = {
       "postcode": "BT19 1FH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -118,6 +123,7 @@ var stores = {
       "postcode": "OL6 6DJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -138,6 +144,7 @@ var stores = {
       "postcode": "SS14 1EB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -158,6 +165,7 @@ var stores = {
       "postcode": "AB24 3LJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -178,6 +186,7 @@ var stores = {
       "postcode": "AB15 6BL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -198,6 +207,7 @@ var stores = {
       "postcode": "EX31 2AA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -218,6 +228,7 @@ var stores = {
       "postcode": "BT2 8GD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -238,6 +249,7 @@ var stores = {
       "postcode": "OX16 1LX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -258,6 +270,7 @@ var stores = {
       "postcode": "AB12 3QW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -278,6 +291,7 @@ var stores = {
       "postcode": "AB11 5BW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -298,6 +312,7 @@ var stores = {
       "postcode": "BT12 6HH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -318,6 +333,7 @@ var stores = {
       "postcode": "BT1 2LR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -338,6 +354,7 @@ var stores = {
       "postcode": "CM12 0DX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -358,6 +375,7 @@ var stores = {
       "postcode": "B14 5TN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -378,6 +396,7 @@ var stores = {
       "postcode": "B4 6HY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -398,6 +417,7 @@ var stores = {
       "postcode": "BA2 3BW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -418,6 +438,7 @@ var stores = {
       "postcode": "MK1 1BN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -438,6 +459,7 @@ var stores = {
       "postcode": "WD6 1EH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -458,6 +480,7 @@ var stores = {
       "postcode": "B5 4TD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -478,6 +501,7 @@ var stores = {
       "postcode": "B15 1DA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -498,6 +522,7 @@ var stores = {
       "postcode": "B36 8DT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -518,6 +543,7 @@ var stores = {
       "postcode": "B31 2UQ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -538,6 +564,7 @@ var stores = {
       "postcode": "BB1 7JB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -558,6 +585,7 @@ var stores = {
       "postcode": "DY5 1UA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -578,6 +606,7 @@ var stores = {
       "postcode": "B66 3PR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -598,6 +627,7 @@ var stores = {
       "postcode": "BD3 7AT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -618,6 +648,7 @@ var stores = {
       "postcode": "BN1 1YR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -638,6 +669,7 @@ var stores = {
       "postcode": "BS5 0HU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -658,6 +690,7 @@ var stores = {
       "postcode": "TA6 4AE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -678,6 +711,7 @@ var stores = {
       "postcode": "BD10 8EG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -698,6 +732,7 @@ var stores = {
       "postcode": "BN1 4JB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -718,6 +753,7 @@ var stores = {
       "postcode": "BS34 7JW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -738,6 +774,7 @@ var stores = {
       "postcode": "RH15 9RD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -758,6 +795,7 @@ var stores = {
       "postcode": "MK18 1TB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -778,6 +816,7 @@ var stores = {
       "postcode": "SL1 4JB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -798,6 +837,7 @@ var stores = {
       "postcode": "BL9 0ND",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -818,6 +858,7 @@ var stores = {
       "postcode": "BS4 5NG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -838,6 +879,7 @@ var stores = {
       "postcode": "GU15 3PE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -858,6 +900,7 @@ var stores = {
       "postcode": "BS1 2DU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -878,6 +921,7 @@ var stores = {
       "postcode": "CB1 7DY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -898,6 +942,7 @@ var stores = {
       "postcode": "CT1 1DX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -918,6 +963,7 @@ var stores = {
       "postcode": "CT1 3TQ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -938,6 +984,7 @@ var stores = {
       "postcode": "ME4 4LL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -958,6 +1005,7 @@ var stores = {
       "postcode": "BS1 5TY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -978,6 +1026,7 @@ var stores = {
       "postcode": "CH1 4LU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -998,6 +1047,7 @@ var stores = {
       "postcode": "CB1 1PS",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1018,6 +1068,7 @@ var stores = {
       "postcode": "CO3 3GT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1038,6 +1089,7 @@ var stores = {
       "postcode": "B61 0DD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1058,6 +1110,7 @@ var stores = {
       "postcode": "CH62 3PN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1078,6 +1131,7 @@ var stores = {
       "postcode": "CV3 2SB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1098,6 +1152,7 @@ var stores = {
       "postcode": "BB8 8LU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1118,6 +1173,7 @@ var stores = {
       "postcode": "CV1 1HW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1138,6 +1194,7 @@ var stores = {
       "postcode": "CF11 0JR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1158,6 +1215,7 @@ var stores = {
       "postcode": "M34 3SJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1178,6 +1236,7 @@ var stores = {
       "postcode": "CF10 1LA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1198,6 +1257,7 @@ var stores = {
       "postcode": "CF23 8NL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1218,6 +1278,7 @@ var stores = {
       "postcode": "NN17 1SW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1238,6 +1299,7 @@ var stores = {
       "postcode": "DE1 2AB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1258,6 +1320,7 @@ var stores = {
       "postcode": "BT48 7PW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1278,6 +1341,7 @@ var stores = {
       "postcode": "RH19 3DJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1298,6 +1362,7 @@ var stores = {
       "postcode": "CV1 3AZ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1318,6 +1383,7 @@ var stores = {
       "postcode": "KY12 7AU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1338,6 +1404,7 @@ var stores = {
       "postcode": "DY4 7UL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1358,6 +1425,7 @@ var stores = {
       "postcode": "EH6 6JJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1378,6 +1446,7 @@ var stores = {
       "postcode": "DD1 1NJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1398,6 +1467,7 @@ var stores = {
       "postcode": "OX11 8RG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1418,6 +1488,7 @@ var stores = {
       "postcode": "KT19 8BJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1438,6 +1509,7 @@ var stores = {
       "postcode": "G74 1LL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1458,6 +1530,7 @@ var stores = {
       "postcode": "EX4 3AX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1478,6 +1551,7 @@ var stores = {
       "postcode": "EH3 8RA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1498,6 +1572,7 @@ var stores = {
       "postcode": "EH15 3RD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1518,6 +1593,7 @@ var stores = {
       "postcode": "G2 3ER",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1538,6 +1614,7 @@ var stores = {
       "postcode": "EH11 3XP",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1558,6 +1635,7 @@ var stores = {
       "postcode": "EH5 1SA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1578,6 +1656,7 @@ var stores = {
       "postcode": "EH3 9EN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1598,6 +1677,7 @@ var stores = {
       "postcode": "G81 2UA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1618,6 +1698,7 @@ var stores = {
       "postcode": "EX2 7JH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1638,6 +1719,7 @@ var stores = {
       "postcode": "G3 6JA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1658,6 +1740,7 @@ var stores = {
       "postcode": "NE8 1ED",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1678,6 +1761,7 @@ var stores = {
       "postcode": "PO16 8SU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1698,6 +1782,7 @@ var stores = {
       "postcode": "GL4 3BY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1718,6 +1803,7 @@ var stores = {
       "postcode": "CT19 5FF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1738,6 +1824,7 @@ var stores = {
       "postcode": "G33 1AD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1758,6 +1845,7 @@ var stores = {
       "postcode": "G41 3NN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1778,6 +1866,7 @@ var stores = {
       "postcode": "CM20 1AJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1798,6 +1887,7 @@ var stores = {
       "postcode": "HG1 1HS",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1818,6 +1908,7 @@ var stores = {
       "postcode": "G53 6AG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1838,6 +1929,7 @@ var stores = {
       "postcode": "G2 6AE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1858,6 +1950,7 @@ var stores = {
       "postcode": "HR4 9SB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1878,6 +1971,7 @@ var stores = {
       "postcode": "SK13 8GN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1898,6 +1992,7 @@ var stores = {
       "postcode": "DN31 1FB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1918,6 +2013,7 @@ var stores = {
       "postcode": "HX1 1YH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1938,6 +2034,7 @@ var stores = {
       "postcode": "SG5 1JE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1958,6 +2055,7 @@ var stores = {
       "postcode": "HP1 1BA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1978,6 +2076,7 @@ var stores = {
       "postcode": "LS13 4UD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -1998,6 +2097,7 @@ var stores = {
       "postcode": "LS10 2BB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2018,6 +2118,7 @@ var stores = {
       "postcode": "LS7 1AX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2038,6 +2139,7 @@ var stores = {
       "postcode": "LS15 8GH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2058,6 +2160,7 @@ var stores = {
       "postcode": "LS5 3BL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2078,6 +2181,7 @@ var stores = {
       "postcode": "LE1 1SH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2098,6 +2202,7 @@ var stores = {
       "postcode": "LE2 7GR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2118,6 +2223,7 @@ var stores = {
       "postcode": "KY2 5PQ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2138,6 +2244,7 @@ var stores = {
       "postcode": "WS13 6AY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2158,6 +2265,7 @@ var stores = {
       "postcode": "WS12 1BT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2178,6 +2286,7 @@ var stores = {
       "postcode": "CB9 8QJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2198,6 +2307,7 @@ var stores = {
       "postcode": "HU10 6RJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2218,6 +2328,7 @@ var stores = {
       "postcode": "LN5 7EY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2238,6 +2349,7 @@ var stores = {
       "postcode": "IP1 1DT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2258,6 +2370,7 @@ var stores = {
       "postcode": "EC3V 9AH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2278,6 +2391,7 @@ var stores = {
       "postcode": "L1 1QE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2298,6 +2412,7 @@ var stores = {
       "postcode": "W3 9QU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2318,6 +2433,7 @@ var stores = {
       "postcode": "L8 5SN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2338,6 +2454,7 @@ var stores = {
       "postcode": "W2 4AP",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2358,6 +2475,7 @@ var stores = {
       "postcode": "E6 7ER",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2378,6 +2496,7 @@ var stores = {
       "postcode": "EC3A 7DH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2398,6 +2517,7 @@ var stores = {
       "postcode": "SE16 4DG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2418,6 +2538,7 @@ var stores = {
       "postcode": "EH54 6GA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2438,6 +2559,7 @@ var stores = {
       "postcode": "E14 4AN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2458,6 +2580,7 @@ var stores = {
       "postcode": "SE1 4NA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2478,6 +2601,7 @@ var stores = {
       "postcode": "NW1 7BT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2498,6 +2622,7 @@ var stores = {
       "postcode": "E3 5SN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2518,6 +2643,7 @@ var stores = {
       "postcode": "SE5 7EJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2538,6 +2664,7 @@ var stores = {
       "postcode": "BR1 1TR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2558,6 +2685,7 @@ var stores = {
       "postcode": "CR0 1TB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2578,6 +2706,7 @@ var stores = {
       "postcode": "E14 2BE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2598,6 +2727,7 @@ var stores = {
       "postcode": "SE5 0TF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2618,6 +2748,7 @@ var stores = {
       "postcode": "SW4 7TB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2638,6 +2769,7 @@ var stores = {
       "postcode": "EC1R 5DL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2658,6 +2790,7 @@ var stores = {
       "postcode": "N7 7JR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2678,6 +2811,7 @@ var stores = {
       "postcode": "WC2B 5NF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2698,6 +2832,7 @@ var stores = {
       "postcode": "SW6 1BE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2718,6 +2853,7 @@ var stores = {
       "postcode": "SE7 7SA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2738,6 +2874,7 @@ var stores = {
       "postcode": "SW14 8AW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2758,6 +2895,7 @@ var stores = {
       "postcode": "SE10 8JL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2778,6 +2916,7 @@ var stores = {
       "postcode": "W6 7NL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2798,6 +2937,7 @@ var stores = {
       "postcode": "N3 2TA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2818,6 +2958,7 @@ var stores = {
       "postcode": "HA8 7JG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2838,6 +2979,7 @@ var stores = {
       "postcode": "EN1 1TW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2858,6 +3000,7 @@ var stores = {
       "postcode": "NW9 5HR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2878,6 +3021,7 @@ var stores = {
       "postcode": "IG1 1RS",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2898,6 +3042,7 @@ var stores = {
       "postcode": "W1W 6LA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2918,6 +3063,7 @@ var stores = {
       "postcode": "NW5 1TL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2938,6 +3084,7 @@ var stores = {
       "postcode": "UB4 0TU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2958,6 +3105,7 @@ var stores = {
       "postcode": "E11 3DA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2978,6 +3126,7 @@ var stores = {
       "postcode": "WC1X 8RW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -2998,6 +3147,7 @@ var stores = {
       "postcode": "SE13 5JX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3018,6 +3168,7 @@ var stores = {
       "postcode": "N10 3PJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3038,6 +3189,7 @@ var stores = {
       "postcode": "BR6 0TW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3058,6 +3210,7 @@ var stores = {
       "postcode": "N19 4PJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3078,6 +3231,7 @@ var stores = {
       "postcode": "SE3 9FW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3098,6 +3252,7 @@ var stores = {
       "postcode": "NW1 6NA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3118,6 +3273,7 @@ var stores = {
       "postcode": "W3 0PA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3138,6 +3294,7 @@ var stores = {
       "postcode": "SW15 2SW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3158,6 +3315,7 @@ var stores = {
       "postcode": "N14 6AA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3178,6 +3336,7 @@ var stores = {
       "postcode": "N12 0GA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3198,6 +3357,7 @@ var stores = {
       "postcode": "SW8 2JU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3218,6 +3378,7 @@ var stores = {
       "postcode": "EC1A 7DH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3238,6 +3399,7 @@ var stores = {
       "postcode": "W1T 7NE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3258,6 +3420,7 @@ var stores = {
       "postcode": "E14 7LB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3278,6 +3441,7 @@ var stores = {
       "postcode": "SW1Y 4PE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3298,6 +3462,7 @@ var stores = {
       "postcode": "EC2M 5QB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3318,6 +3483,7 @@ var stores = {
       "postcode": "SW18 4LD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3338,6 +3504,7 @@ var stores = {
       "postcode": "SE1 8TG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3358,6 +3525,7 @@ var stores = {
       "postcode": "E1 1JG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3378,6 +3546,7 @@ var stores = {
       "postcode": "SE26 4QD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3398,6 +3567,7 @@ var stores = {
       "postcode": "SW9 6DE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3418,6 +3588,7 @@ var stores = {
       "postcode": "LE11 5BG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3438,6 +3609,7 @@ var stores = {
       "postcode": "EC3N 2LB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3458,6 +3630,7 @@ var stores = {
       "postcode": "LU4 0JB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3478,6 +3651,7 @@ var stores = {
       "postcode": "M50 1ZD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3498,6 +3672,7 @@ var stores = {
       "postcode": "SW1E 5BH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3518,6 +3693,7 @@ var stores = {
       "postcode": "M8 8DY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3538,6 +3714,7 @@ var stores = {
       "postcode": "HA9 7BH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3558,6 +3735,7 @@ var stores = {
       "postcode": "M18 7WY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3578,6 +3756,7 @@ var stores = {
       "postcode": "M3 3HF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3598,6 +3777,7 @@ var stores = {
       "postcode": "CM9 4DY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3618,6 +3798,7 @@ var stores = {
       "postcode": "M5 3BL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3638,6 +3819,7 @@ var stores = {
       "postcode": "M1 1PD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3658,6 +3840,7 @@ var stores = {
       "postcode": "M9 7GH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3678,6 +3861,7 @@ var stores = {
       "postcode": "MK6 1BP",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3698,6 +3882,7 @@ var stores = {
       "postcode": "M32 9BD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3718,6 +3903,7 @@ var stores = {
       "postcode": "ML1 1LX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3738,6 +3924,7 @@ var stores = {
       "postcode": "M4 6DE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3758,6 +3945,7 @@ var stores = {
       "postcode": "EN4 8RW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3778,6 +3966,7 @@ var stores = {
       "postcode": "NE1 7RA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3798,6 +3987,7 @@ var stores = {
       "postcode": "NE12 8BS",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3818,6 +4008,7 @@ var stores = {
       "postcode": "NN1 1PJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3838,6 +4029,7 @@ var stores = {
       "postcode": "UB5 6AG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3858,6 +4050,7 @@ var stores = {
       "postcode": "CW9 5LG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3878,6 +4071,7 @@ var stores = {
       "postcode": "NE1 4BN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3898,6 +4092,7 @@ var stores = {
       "postcode": "BT35 8QS",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3918,6 +4113,7 @@ var stores = {
       "postcode": "NG18 1BW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3938,6 +4134,7 @@ var stores = {
       "postcode": "NR1 3DD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3958,6 +4155,7 @@ var stores = {
       "postcode": "BT36 7BS",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3978,6 +4176,7 @@ var stores = {
       "postcode": "SW7 2NJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -3998,6 +4197,7 @@ var stores = {
       "postcode": "NR1 1WX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4018,6 +4218,7 @@ var stores = {
       "postcode": "E1 6LF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4038,6 +4239,7 @@ var stores = {
       "postcode": "OL4 1SA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4058,6 +4260,7 @@ var stores = {
       "postcode": "NG7 7BA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4078,6 +4281,7 @@ var stores = {
       "postcode": "CV11 5TZ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4098,6 +4302,7 @@ var stores = {
       "postcode": "NG9 2JG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4118,6 +4323,7 @@ var stores = {
       "postcode": "OX1 1PT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4138,6 +4344,7 @@ var stores = {
       "postcode": "NN3 8JZ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4158,6 +4365,7 @@ var stores = {
       "postcode": "NG7 1GX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4178,6 +4386,7 @@ var stores = {
       "postcode": "NR3 2RT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4198,6 +4407,7 @@ var stores = {
       "postcode": "PO6 4FG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4218,6 +4428,7 @@ var stores = {
       "postcode": "CR8 2PG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4238,6 +4449,7 @@ var stores = {
       "postcode": "OX4 3JP",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4258,6 +4470,7 @@ var stores = {
       "postcode": "PL4 7EF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4278,6 +4491,7 @@ var stores = {
       "postcode": "RG31 7SA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4298,6 +4512,7 @@ var stores = {
       "postcode": "BH12 4NY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4318,6 +4533,7 @@ var stores = {
       "postcode": "RG1 8AD",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4338,6 +4554,7 @@ var stores = {
       "postcode": "PO1 1NB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4358,6 +4575,7 @@ var stores = {
       "postcode": "OL11 1RY",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4378,6 +4596,7 @@ var stores = {
       "postcode": "RM1 1AU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4398,6 +4617,7 @@ var stores = {
       "postcode": "PR1 1NQ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4418,6 +4638,7 @@ var stores = {
       "postcode": "M6 5JP",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4438,6 +4659,7 @@ var stores = {
       "postcode": "SS6 7UP",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4458,6 +4680,7 @@ var stores = {
       "postcode": "S4 7LJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4478,6 +4701,7 @@ var stores = {
       "postcode": "RG2 0NT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4498,6 +4722,7 @@ var stores = {
       "postcode": "PA3 4BX",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4518,6 +4743,7 @@ var stores = {
       "postcode": "SO15 1QJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4538,6 +4764,7 @@ var stores = {
       "postcode": "CB10 2UR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4558,6 +4785,7 @@ var stores = {
       "postcode": "WA7 5AQ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4578,6 +4806,7 @@ var stores = {
       "postcode": "AL1 2RJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4598,6 +4827,7 @@ var stores = {
       "postcode": "B97 4HJ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4618,6 +4848,7 @@ var stores = {
       "postcode": "S8 0LB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4638,6 +4869,7 @@ var stores = {
       "postcode": "FK8 2DT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4658,6 +4890,7 @@ var stores = {
       "postcode": "SO16 6TP",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4678,6 +4911,7 @@ var stores = {
       "postcode": "SO18 5RT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4698,6 +4932,7 @@ var stores = {
       "postcode": "ST16 2SL",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4718,6 +4953,7 @@ var stores = {
       "postcode": "SP1 2LB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4738,6 +4974,7 @@ var stores = {
       "postcode": "SR6 0BN",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4758,6 +4995,7 @@ var stores = {
       "postcode": "TW18 4WB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4778,6 +5016,7 @@ var stores = {
       "postcode": "SN5 8WA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4798,6 +5037,7 @@ var stores = {
       "postcode": "SM1 1LF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4818,6 +5058,7 @@ var stores = {
       "postcode": "B23 5SB",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4838,6 +5079,7 @@ var stores = {
       "postcode": "ST4 2HT",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4858,6 +5100,7 @@ var stores = {
       "postcode": "TN1 2SW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4878,6 +5121,7 @@ var stores = {
       "postcode": "SK1 4LG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4898,6 +5142,7 @@ var stores = {
       "postcode": "KT12 1GH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4918,6 +5163,7 @@ var stores = {
       "postcode": "WA1 2PA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4938,6 +5184,7 @@ var stores = {
       "postcode": "TN9 1TF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4958,6 +5205,7 @@ var stores = {
       "postcode": "TF3 4DR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4978,6 +5226,7 @@ var stores = {
       "postcode": "PO7 7HS",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -4998,6 +5247,7 @@ var stores = {
       "postcode": "B70 8NS",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5018,6 +5268,7 @@ var stores = {
       "postcode": "WA2 8RF",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5038,6 +5289,7 @@ var stores = {
       "postcode": "ST4 6JQ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5058,6 +5310,7 @@ var stores = {
       "postcode": "CH44 2HE",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5078,6 +5331,7 @@ var stores = {
       "postcode": "GU21 4NR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5098,6 +5352,7 @@ var stores = {
       "postcode": "WF1 1QS",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5118,6 +5373,7 @@ var stores = {
       "postcode": "RM20 3LP",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5138,6 +5394,7 @@ var stores = {
       "postcode": "WS1 1NG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5158,6 +5415,7 @@ var stores = {
       "postcode": "PE14 0RG",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5178,6 +5436,7 @@ var stores = {
       "postcode": "BS23 3YZ",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5198,6 +5457,7 @@ var stores = {
       "postcode": "CV31 3RW",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5218,6 +5478,7 @@ var stores = {
       "postcode": "WA8 0WR",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5238,6 +5499,7 @@ var stores = {
       "postcode": "WV2 3NH",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5258,6 +5520,7 @@ var stores = {
       "postcode": "LL13 7SU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5278,6 +5541,7 @@ var stores = {
       "postcode": "WV11 1BP",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5298,6 +5562,7 @@ var stores = {
       "postcode": "WR1 2DA",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5318,6 +5583,7 @@ var stores = {
       "postcode": "YO30 4TU",
       "joiningfee": "\u00a30",
       "markerid": "puregymmarker",
+          "type": "Gym",
       "gymlink": "https://www.puregym.com/join/"
     }
   },
@@ -5338,6 +5604,7 @@ var stores = {
           "postcode": "S71 1DL",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5358,6 +5625,7 @@ var stores = {
           "postcode": "DE24 8NG",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5378,6 +5646,7 @@ var stores = {
           "postcode": "BD1 3AH",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5398,6 +5667,7 @@ var stores = {
           "postcode": "CF10 2BH",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5418,6 +5688,7 @@ var stores = {
           "postcode": "L30 6TQ",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5438,6 +5709,7 @@ var stores = {
           "postcode": "CV1 4AJ",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5458,6 +5730,7 @@ var stores = {
           "postcode": "B6 4NF",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5478,6 +5751,7 @@ var stores = {
           "postcode": "DN2 4SQ",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5498,6 +5772,7 @@ var stores = {
           "postcode": "WF17 6HU",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5518,6 +5793,7 @@ var stores = {
           "postcode": "BL2 1HA",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5538,6 +5814,7 @@ var stores = {
           "postcode": "HD1 3LT",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5558,6 +5835,7 @@ var stores = {
           "postcode": "G20 9BS",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5578,6 +5856,7 @@ var stores = {
           "postcode": "HU5 1SW",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5598,6 +5877,7 @@ var stores = {
           "postcode": "M1 6LT",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5618,6 +5898,7 @@ var stores = {
           "postcode": "NE27 0FS",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5638,6 +5919,7 @@ var stores = {
           "postcode": "L7 9NJ",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5658,6 +5940,7 @@ var stores = {
           "postcode": "M5 3TP",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5678,6 +5961,7 @@ var stores = {
           "postcode": "NE37 2PA",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5698,6 +5982,7 @@ var stores = {
           "postcode": "B70 7QU",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5718,6 +6003,7 @@ var stores = {
           "postcode": "WV1 1NT",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5738,6 +6024,7 @@ var stores = {
           "postcode": "PR1 2ES",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5758,6 +6045,7 @@ var stores = {
           "postcode": "OL16 1YL",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5778,6 +6066,7 @@ var stores = {
           "postcode": "WA8 7TN",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5798,6 +6087,7 @@ var stores = {
           "postcode": "FY5 1DW",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5818,6 +6108,7 @@ var stores = {
           "postcode": "SR4 6DW",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5838,6 +6129,7 @@ var stores = {
           "postcode": "WN5 0UJ",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5858,6 +6150,7 @@ var stores = {
           "postcode": "M23 9DS",
           "joiningfee": "\u00a30",
           "markerid": "jdgymmarker",
+          "type": "Gym",
           "gymlink": "https://www.jdgyms.co.uk/view-gyms/"
         }
       },
@@ -5878,6 +6171,7 @@ var stores = {
           "postcode": "CW2 6QT",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Crewe/"
         }
       },
@@ -5898,6 +6192,7 @@ var stores = {
           "postcode": "WS7 1JS",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Burntwood/"
         }
       },
@@ -5918,6 +6213,7 @@ var stores = {
           "postcode": "M33 7XS",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Manchester/"
         }
       },
@@ -5938,6 +6234,7 @@ var stores = {
           "postcode": "DE11 9AA",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Swadlincote/"
         }
       },
@@ -5958,6 +6255,7 @@ var stores = {
           "postcode": "DY8 1PS",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Stourbridge/"
         }
       },
@@ -5978,6 +6276,7 @@ var stores = {
           "postcode": "DE7 5SG",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Ilkeston/"
         }
       },
@@ -5998,6 +6297,7 @@ var stores = {
           "postcode": "LE10 0QD",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Hinckley/"
         }
       },
@@ -6018,6 +6318,7 @@ var stores = {
           "postcode": "S36 2JA",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Stocksbridge/"
         }
       },
@@ -6038,6 +6339,7 @@ var stores = {
           "postcode": "HX1 1QW",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Halifax/"
         }
       },
@@ -6058,6 +6360,7 @@ var stores = {
           "postcode": "BD5 8NN",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Bradford/"
         }
       },
@@ -6078,6 +6381,7 @@ var stores = {
           "postcode": "HR4 0EF",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Hereford/"
         }
       },
@@ -6098,6 +6402,7 @@ var stores = {
           "postcode": "LS1 4LT",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Leeds-Wellington-St/"
         }
       },
@@ -6118,6 +6423,7 @@ var stores = {
           "postcode": "LE16 7QE",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Market-Harborough/"
         }
       },
@@ -6138,6 +6444,7 @@ var stores = {
           "postcode": "LS8 4BA",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Leeds-Oakwood/"
         }
       },
@@ -6158,6 +6465,7 @@ var stores = {
           "postcode": "LA1 1RQ",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Lancaster/"
         }
       },
@@ -6178,6 +6486,7 @@ var stores = {
           "postcode": "GL7 1LJ",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Cirencester/"
         }
       },
@@ -6198,6 +6507,7 @@ var stores = {
           "postcode": "MK14 6GL",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Milton-Keynes/"
         }
       },
@@ -6218,6 +6528,7 @@ var stores = {
           "postcode": "NP12 1AU",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Blackwood/"
         }
       },
@@ -6238,6 +6549,7 @@ var stores = {
           "postcode": "PE19 2PU",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/St-Neots/"
         }
       },
@@ -6258,6 +6570,7 @@ var stores = {
           "postcode": "BS34 7JL",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Bristol-Filton/"
         }
       },
@@ -6278,6 +6591,7 @@ var stores = {
           "postcode": "BS8 2PH",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Bristol-Clifton/"
         }
       },
@@ -6298,6 +6612,7 @@ var stores = {
           "postcode": "SN14 0EP",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Chippenham/"
         }
       },
@@ -6318,6 +6633,7 @@ var stores = {
           "postcode": "OX11 7LL",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Didcot/"
         }
       },
@@ -6338,6 +6654,7 @@ var stores = {
           "postcode": "BS3 2NS",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Bristol-Ashton-Gate/"
         }
       },
@@ -6358,6 +6675,7 @@ var stores = {
           "postcode": "BA14 8AT",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Trowbridge/"
         }
       },
@@ -6378,6 +6696,7 @@ var stores = {
           "postcode": "CF31 3BL",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Bridgend/"
         }
       },
@@ -6398,6 +6717,7 @@ var stores = {
           "postcode": "CF62 5BE",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Barry/"
         }
       },
@@ -6418,6 +6738,7 @@ var stores = {
           "postcode": "BA3 3PT",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Radstock/"
         }
       },
@@ -6438,6 +6759,7 @@ var stores = {
           "postcode": "DL1 4PU",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Darlington/"
         }
       },
@@ -6458,6 +6780,7 @@ var stores = {
           "postcode": "SA15 1SG",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Llanelli/"
         }
       },
@@ -6478,6 +6801,7 @@ var stores = {
           "postcode": "SL4 1EG",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Windsor/"
         }
       },
@@ -6498,6 +6822,7 @@ var stores = {
           "postcode": "SP10 1DS",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Andover/"
         }
       },
@@ -6518,6 +6843,7 @@ var stores = {
           "postcode": "HA3 9DH",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Kenton-Harrow/"
         }
       },
@@ -6538,6 +6864,7 @@ var stores = {
           "postcode": "GU47 9DB",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Sandhurst/"
         }
       },
@@ -6558,6 +6885,7 @@ var stores = {
           "postcode": "CM23 3AE",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Bishops-Stortford/"
         }
       },
@@ -6578,6 +6906,7 @@ var stores = {
           "postcode": "GU19 5HN",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Bagshot/"
         }
       },
@@ -6598,6 +6927,7 @@ var stores = {
           "postcode": "GU16 7HL",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Frimley/"
         }
       },
@@ -6618,6 +6948,7 @@ var stores = {
           "postcode": "SP1 1BT",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Salisbury/"
         }
       },
@@ -6638,6 +6969,7 @@ var stores = {
           "postcode": "W4 5RG",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Chiswick/"
         }
       },
@@ -6658,6 +6990,7 @@ var stores = {
           "postcode": "IP24 1AD",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Thetford/"
         }
       },
@@ -6678,6 +7011,7 @@ var stores = {
           "postcode": "IG10 3SZ",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Debden/"
         }
       },
@@ -6698,6 +7032,7 @@ var stores = {
           "postcode": "TA1 1LX",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Taunton/"
         }
       },
@@ -6718,6 +7053,7 @@ var stores = {
           "postcode": "CA1 1RP",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Carlisle/"
         }
       },
@@ -6738,6 +7074,7 @@ var stores = {
           "postcode": "SE11 4QU",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Elephant-and-Castle/"
         }
       },
@@ -6758,6 +7095,7 @@ var stores = {
           "postcode": "SW17 9NN",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Tooting/"
         }
       },
@@ -6778,6 +7116,7 @@ var stores = {
           "postcode": "SE10 0AN",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Greenwich/"
         }
       },
@@ -6798,6 +7137,7 @@ var stores = {
           "postcode": "GU7 1DY",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/dalming/"
         }
       },
@@ -6818,6 +7158,7 @@ var stores = {
           "postcode": "SM6 0AT",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Wallington/"
         }
       },
@@ -6838,6 +7179,7 @@ var stores = {
           "postcode": "DA17 6FD",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Belvedere/"
         }
       },
@@ -6858,6 +7200,7 @@ var stores = {
           "postcode": "SO19 9UE",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Southampton-Woolston/"
         }
       },
@@ -6878,6 +7221,7 @@ var stores = {
           "postcode": "DA1 5FY",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Dartford/"
         }
       },
@@ -6898,6 +7242,7 @@ var stores = {
           "postcode": "NE26 1DG",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Whitley-Bay/"
         }
       },
@@ -6918,6 +7263,7 @@ var stores = {
           "postcode": "SS14 1DJ",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Basildon/"
         }
       },
@@ -6938,6 +7284,7 @@ var stores = {
           "postcode": "DA11 9BJ",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Ebbsfleet/"
         }
       },
@@ -6958,6 +7305,7 @@ var stores = {
           "postcode": "RH10 9UY",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Crawley/"
         }
       },
@@ -6978,6 +7326,7 @@ var stores = {
           "postcode": "PO30 5HF",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Isle-of-Wight/"
         }
       },
@@ -6998,6 +7347,7 @@ var stores = {
           "postcode": "EX2 8LN",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Exeter/"
         }
       },
@@ -7018,6 +7368,7 @@ var stores = {
           "postcode": "TN9 1RD",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Tonbridge/"
         }
       },
@@ -7038,6 +7389,7 @@ var stores = {
           "postcode": "NR34 9AP",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Beccles/"
         }
       },
@@ -7058,6 +7410,7 @@ var stores = {
           "postcode": "ME14 1JH",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Maidstone/"
         }
       },
@@ -7078,6 +7431,7 @@ var stores = {
           "postcode": "ME11 5AR",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Neats-Court/"
         }
       },
@@ -7098,6 +7452,7 @@ var stores = {
           "postcode": "ME10 3DN",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Sittingbourne/"
         }
       },
@@ -7118,6 +7473,7 @@ var stores = {
           "postcode": "BN3 3TJ",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Hove/"
         }
       },
@@ -7138,6 +7494,7 @@ var stores = {
           "postcode": "CT6 6GZ",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Herne-Bay/"
         }
       },
@@ -7158,6 +7515,7 @@ var stores = {
           "postcode": "TN23 1DY",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Ashford/"
         }
       },
@@ -7178,6 +7536,7 @@ var stores = {
           "postcode": "BN23 7RT",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Eastbourne/"
         }
       },
@@ -7198,6 +7557,7 @@ var stores = {
           "postcode": "CT17 0SA",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Dover/"
         }
       },
@@ -7218,6 +7578,7 @@ var stores = {
           "postcode": "PL25 5AZ",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/St-Austell/"
         }
       },
@@ -7238,6 +7599,7 @@ var stores = {
           "postcode": "G2 6LD",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Glasw-Central/"
         }
       },
@@ -7258,6 +7620,7 @@ var stores = {
           "postcode": "AB24 5AR",
           "joiningfee": "\u00a320",
           "markerid": "snapfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.snapfitness.com/uk/gyms/Aberdeen-Central/"
         }
       },
@@ -7278,6 +7641,7 @@ var stores = {
           "postcode": "TN24 8TN\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Ashford/"
         }
       },
@@ -7298,6 +7662,7 @@ var stores = {
           "postcode": " MK42 0NW\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Bedford/"
         }
       },
@@ -7318,6 +7683,7 @@ var stores = {
           "postcode": " B4 7TE\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Birmingham-City-Centre/"
         }
       },
@@ -7338,6 +7704,7 @@ var stores = {
           "postcode": " B62 9AS\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Birmingham-Hagley-Road/"
         }
       },
@@ -7358,6 +7725,7 @@ var stores = {
           "postcode": " BL1 2SL\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Bolton/"
         }
       },
@@ -7378,6 +7746,7 @@ var stores = {
           "postcode": " RG12 1NS\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Bracknell/"
         }
       },
@@ -7398,6 +7767,7 @@ var stores = {
           "postcode": " BS15 9LA\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Bristol-Longwell-Green/"
         }
       },
@@ -7418,6 +7788,7 @@ var stores = {
           "postcode": " CF23 9AE\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Cardiff-Newport-Road/"
         }
       },
@@ -7438,6 +7809,7 @@ var stores = {
           "postcode": " CF10 2HQ\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Cardiff-City-Centre/"
         }
       },
@@ -7458,6 +7830,7 @@ var stores = {
           "postcode": " CM2 0ND\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Chelmsford/"
         }
       },
@@ -7478,6 +7851,7 @@ var stores = {
           "postcode": " RH10 1DE\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Crawley/"
         }
       },
@@ -7498,6 +7872,7 @@ var stores = {
           "postcode": " DE23 6UQ\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Derby/"
         }
       },
@@ -7518,6 +7893,7 @@ var stores = {
           "postcode": " DA1 1DN\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Dartford/"
         }
       },
@@ -7538,6 +7914,7 @@ var stores = {
           "postcode": " BN23 6JH\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Eastbourne/"
         }
       },
@@ -7558,6 +7935,7 @@ var stores = {
           "postcode": " EX2 8LG\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Exeter-Marsh-Barton/"
         }
       },
@@ -7578,6 +7956,7 @@ var stores = {
           "postcode": " GU14 7RT\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Farnborough/"
         }
       },
@@ -7598,6 +7977,7 @@ var stores = {
           "postcode": " G5 8NP\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Glasgow-Quay/"
         }
       },
@@ -7618,6 +7998,7 @@ var stores = {
           "postcode": " G42 8SG\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Glasgow-South/"
         }
       },
@@ -7638,6 +8019,7 @@ var stores = {
           "postcode": " GL1 5SH\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Gloucester/"
         }
       },
@@ -7658,6 +8040,7 @@ var stores = {
           "postcode": " GU1 1BA\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Guildford/"
         }
       },
@@ -7678,6 +8061,7 @@ var stores = {
           "postcode": " ML3 6AD\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Hamilton/"
         }
       },
@@ -7698,6 +8082,7 @@ var stores = {
           "postcode": " HP2 4JS\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Hemel-Hempstead/"
         }
       },
@@ -7718,6 +8103,7 @@ var stores = {
           "postcode": " LE2 7JZ\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Leicester-Aylestone-Road/"
         }
       },
@@ -7738,6 +8124,7 @@ var stores = {
           "postcode": " E1 4UJ\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/London-Stepney-Green/"
         }
       },
@@ -7758,6 +8145,7 @@ var stores = {
           "postcode": " MK9 1AW\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Milton-Keynes/"
         }
       },
@@ -7778,6 +8166,7 @@ var stores = {
           "postcode": " M11 1DA\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Manchester-Ashton-Old-Road/"
         }
       },
@@ -7798,6 +8187,7 @@ var stores = {
           "postcode": " M3 4EN\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Manchester-Deansgate/"
         }
       },
@@ -7818,6 +8208,7 @@ var stores = {
           "postcode": " NE7 7DT\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Newcastle-East/"
         }
       },
@@ -7838,6 +8229,7 @@ var stores = {
           "postcode": " NR4 6DP\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Norwich-Hall-Road/"
         }
       },
@@ -7858,6 +8250,7 @@ var stores = {
           "postcode": " NR2 1EA\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Norwich-City/"
         }
       },
@@ -7878,6 +8271,7 @@ var stores = {
           "postcode": " OL9 7NG\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Oldham/"
         }
       },
@@ -7898,6 +8292,7 @@ var stores = {
           "postcode": " PE3 9TA\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Peterborough/"
         }
       },
@@ -7918,6 +8313,7 @@ var stores = {
           "postcode": " PL1 2SW\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Plymouth/"
         }
       },
@@ -7938,6 +8334,7 @@ var stores = {
           "postcode": " PO4 8SX\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Portsmouth-Fratton/"
         }
       },
@@ -7958,6 +8355,7 @@ var stores = {
           "postcode": " RG1 2LN\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Reading-Central/"
         }
       },
@@ -7978,6 +8376,7 @@ var stores = {
           "postcode": " RH1 1NN\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Redhill/"
         }
       },
@@ -7998,6 +8397,7 @@ var stores = {
           "postcode": " S3 8RW\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Sheffield-Kelham-Island/"
         }
       },
@@ -8018,6 +8418,7 @@ var stores = {
           "postcode": " SO19 8NE\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Southampton-East/"
         }
       },
@@ -8038,6 +8439,7 @@ var stores = {
           "postcode": " SA1 5HE\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Swansea/"
         }
       },
@@ -8058,6 +8460,7 @@ var stores = {
           "postcode": " SK1 1SA\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Stockport/"
         }
       },
@@ -8078,6 +8481,7 @@ var stores = {
           "postcode": " WF2 9BL\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Wakefield/"
         }
       },
@@ -8098,6 +8502,7 @@ var stores = {
           "postcode": " WD24 4JF\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Watford/"
         }
       },
@@ -8118,6 +8523,7 @@ var stores = {
           "postcode": " WV3 0TE\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Wolverhampton/"
         }
       },
@@ -8138,6 +8544,7 @@ var stores = {
           "postcode": " RG30 1PR\n",
           "joiningfee": "\u00a35-\u00a310",
           "markerid": "thegymmarker",
+          "type": "Gym",
           "gymlink": "https://www.thegymgroup.com/find-a-gym/Reading-West/"
         }
       },
@@ -8158,6 +8565,7 @@ var stores = {
           "postcode": "SW11 5BW",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8178,6 +8586,7 @@ var stores = {
           "postcode": "B16 8LP",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8198,6 +8607,7 @@ var stores = {
           "postcode": "HP19 7AA",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8218,6 +8628,7 @@ var stores = {
           "postcode": "B45 9FN",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8238,6 +8649,7 @@ var stores = {
           "postcode": "CM23 3BP",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8258,6 +8670,7 @@ var stores = {
           "postcode": "AB11 6EQ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8278,6 +8691,7 @@ var stores = {
           "postcode": "E14 9FT",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8298,6 +8712,7 @@ var stores = {
           "postcode": "BL1 8TS",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8318,6 +8733,7 @@ var stores = {
           "postcode": "CF31 3YW",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8338,6 +8754,7 @@ var stores = {
           "postcode": "BS8 1QS",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8358,6 +8775,7 @@ var stores = {
           "postcode": "NW2 5JY",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8378,6 +8796,7 @@ var stores = {
           "postcode": "CM1 1AN",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8398,6 +8817,7 @@ var stores = {
           "postcode": "BR2 9EF",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8418,6 +8838,7 @@ var stores = {
           "postcode": "SM2 7BJ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8438,6 +8859,7 @@ var stores = {
           "postcode": "IG7 6BX",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8458,6 +8880,7 @@ var stores = {
           "postcode": "S40 2EZ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8478,6 +8901,7 @@ var stores = {
           "postcode": "BR7 6RP",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8498,6 +8922,7 @@ var stores = {
           "postcode": "RH10 8LR",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8518,6 +8943,7 @@ var stores = {
           "postcode": "PO19 8EL",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8538,6 +8964,7 @@ var stores = {
           "postcode": "CH4 7QP",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8558,6 +8985,7 @@ var stores = {
           "postcode": "E4 9EY",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8578,6 +9006,7 @@ var stores = {
           "postcode": "WC2H 9SA",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8598,6 +9027,7 @@ var stores = {
           "postcode": "CR0 4RJ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8618,6 +9048,7 @@ var stores = {
           "postcode": "DN4 5NU",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8638,6 +9069,7 @@ var stores = {
           "postcode": "NP44 1TX",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8658,6 +9090,7 @@ var stores = {
           "postcode": "DE21 6DA",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8678,6 +9111,7 @@ var stores = {
           "postcode": "CR0 1RJ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8698,6 +9132,7 @@ var stores = {
           "postcode": "EN2 6SZ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8718,6 +9153,7 @@ var stores = {
           "postcode": "GU14 0NU",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8738,6 +9174,7 @@ var stores = {
           "postcode": "GU9 9EL",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8758,6 +9195,7 @@ var stores = {
           "postcode": "EH11 1AF",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8778,6 +9216,7 @@ var stores = {
           "postcode": "G75 0YW",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8798,6 +9237,7 @@ var stores = {
           "postcode": "G3 8HB",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8818,6 +9258,7 @@ var stores = {
           "postcode": "SW6 6PF",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8838,6 +9279,7 @@ var stores = {
           "postcode": "N11 3BG",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8858,6 +9300,7 @@ var stores = {
           "postcode": "G3 8AU",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8878,6 +9321,7 @@ var stores = {
           "postcode": "G46 6ED",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8898,6 +9342,7 @@ var stores = {
           "postcode": "NE12 8ET",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8918,6 +9363,7 @@ var stores = {
           "postcode": "NW4 3NL",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8938,6 +9384,7 @@ var stores = {
           "postcode": "SG13 7RQ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8958,6 +9405,7 @@ var stores = {
           "postcode": "HU1 2TX",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8978,6 +9426,7 @@ var stores = {
           "postcode": "IG1 1BP",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -8998,6 +9447,7 @@ var stores = {
           "postcode": "LE4 0DZ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9018,6 +9468,7 @@ var stores = {
           "postcode": "KT22 8DY",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9038,6 +9489,7 @@ var stores = {
           "postcode": "KT2 5EN",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9058,6 +9510,7 @@ var stores = {
           "postcode": "SG6 3NP",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9078,6 +9531,7 @@ var stores = {
           "postcode": "LS1 8TL",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9098,6 +9552,7 @@ var stores = {
           "postcode": "M4 2BS",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9118,6 +9573,7 @@ var stores = {
           "postcode": "L3 4EN",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9138,6 +9594,7 @@ var stores = {
           "postcode": "G62 8HJ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9158,6 +9615,7 @@ var stores = {
           "postcode": "MK9 3XS",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9178,6 +9636,7 @@ var stores = {
           "postcode": "SW19 2RF",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9198,6 +9657,7 @@ var stores = {
           "postcode": "EC2Y 9AW",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9218,6 +9678,7 @@ var stores = {
           "postcode": "RG14 7PN",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9238,6 +9699,7 @@ var stores = {
           "postcode": "NN5 5QL",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9258,6 +9720,7 @@ var stores = {
           "postcode": "SW16 4DN",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9278,6 +9741,7 @@ var stores = {
           "postcode": "CV10 7SG",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9298,6 +9762,7 @@ var stores = {
           "postcode": "PO2 9PB",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9318,6 +9783,7 @@ var stores = {
           "postcode": "PR5 4AW",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9338,6 +9804,7 @@ var stores = {
           "postcode": "RG2 6UL",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9358,6 +9825,7 @@ var stores = {
           "postcode": "CV21 1RW",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9378,6 +9846,7 @@ var stores = {
           "postcode": "BD17 7HE",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9398,6 +9867,7 @@ var stores = {
           "postcode": "AL4 0AH",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9418,6 +9888,7 @@ var stores = {
           "postcode": "UB11 1AA",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9438,6 +9909,7 @@ var stores = {
           "postcode": "SL3 6NB",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9458,6 +9930,7 @@ var stores = {
           "postcode": "SN3 3SQ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9478,6 +9951,7 @@ var stores = {
           "postcode": "KT6 4ER",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9498,6 +9972,7 @@ var stores = {
           "postcode": "TA1 3HT",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9518,6 +9993,7 @@ var stores = {
           "postcode": "TF3 4AG",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9538,6 +10014,7 @@ var stores = {
           "postcode": "PL6 8BD",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9558,6 +10035,7 @@ var stores = {
           "postcode": "TN2 3UW",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9578,6 +10056,7 @@ var stores = {
           "postcode": "WF2 7AW",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9598,6 +10077,7 @@ var stores = {
           "postcode": "SW18 4TQ",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9618,6 +10098,7 @@ var stores = {
           "postcode": "TW2 7SX",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9638,6 +10119,7 @@ var stores = {
           "postcode": "WR3 7SN",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9658,6 +10140,7 @@ var stores = {
           "postcode": "RG40 2LD",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9678,6 +10161,7 @@ var stores = {
           "postcode": "BA20 1NP",
           "joiningfee": "\u00a320",
           "markerid": "nuffieldmarker",
+          "type": "Gym",
           "gymlink": "https://www.nuffieldhealth.com/gyms"
         }
       },
@@ -9698,6 +10182,7 @@ var stores = {
           "postcode": "W3 7HB",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9718,6 +10203,7 @@ var stores = {
           "postcode": "ML3 6BY",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9738,6 +10224,7 @@ var stores = {
           "postcode": "WS14 0QP",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9758,6 +10245,7 @@ var stores = {
           "postcode": "CV3 4LF",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9778,6 +10266,7 @@ var stores = {
           "postcode": "GL3 4BJ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9798,6 +10287,7 @@ var stores = {
           "postcode": "CR0 4RW",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9818,6 +10308,7 @@ var stores = {
           "postcode": "RG12 7PB",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9838,6 +10329,7 @@ var stores = {
           "postcode": "M24 4TH",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9858,6 +10350,7 @@ var stores = {
           "postcode": "HG1 2LA ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9878,6 +10371,7 @@ var stores = {
           "postcode": "HA6 2DR",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9898,6 +10392,7 @@ var stores = {
           "postcode": "NR6 5DU",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9918,6 +10413,7 @@ var stores = {
           "postcode": "PE3 6SB",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9938,6 +10434,7 @@ var stores = {
           "postcode": "BH17 7BX",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9958,6 +10455,7 @@ var stores = {
           "postcode": "SR3 3XN",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9978,6 +10476,7 @@ var stores = {
           "postcode": "SA10 6GZ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -9998,6 +10497,7 @@ var stores = {
           "postcode": "AB10 7AY",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10018,6 +10518,7 @@ var stores = {
           "postcode": "SS14 3DG",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10038,6 +10539,7 @@ var stores = {
           "postcode": "HP10 0BY ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10058,6 +10560,7 @@ var stores = {
           "postcode": "SO30 3XA",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10078,6 +10581,7 @@ var stores = {
           "postcode": "BR3 3HL",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10098,6 +10602,7 @@ var stores = {
           "postcode": "BT16 1DL",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10118,6 +10623,7 @@ var stores = {
           "postcode": "B44 9ER",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10138,6 +10644,7 @@ var stores = {
           "postcode": "BL1 4AL",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10158,6 +10665,7 @@ var stores = {
           "postcode": "BS3 2HB",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10178,6 +10686,7 @@ var stores = {
           "postcode": "BS10 6AZ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10198,6 +10707,7 @@ var stores = {
           "postcode": "B60 1GJ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10218,6 +10728,7 @@ var stores = {
           "postcode": "WD23 2DL ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10238,6 +10749,7 @@ var stores = {
           "postcode": "CB1 3LH",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10258,6 +10770,7 @@ var stores = {
           "postcode": "SK8 3FL",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10278,6 +10791,7 @@ var stores = {
           "postcode": "BN2 5UF",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10298,6 +10812,7 @@ var stores = {
           "postcode": "CF23 9AQ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10318,6 +10833,7 @@ var stores = {
           "postcode": "SM3 8DP",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10338,6 +10854,7 @@ var stores = {
           "postcode": "CH65 9JN",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10358,6 +10875,7 @@ var stores = {
           "postcode": "PR6 8AB",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10378,6 +10896,7 @@ var stores = {
           "postcode": "IG7 6BQ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10398,6 +10917,7 @@ var stores = {
           "postcode": "CO4 6AT",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10418,6 +10938,7 @@ var stores = {
           "postcode": "DA1 1NJ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10438,6 +10959,7 @@ var stores = {
           "postcode": "DE24 8HY",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10458,6 +10980,7 @@ var stores = {
           "postcode": "DY5 3YP",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10478,6 +11001,7 @@ var stores = {
           "postcode": "BN22 9PZ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10498,6 +11022,7 @@ var stores = {
           "postcode": "DD5 4HB",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10518,6 +11043,7 @@ var stores = {
           "postcode": "EH12 8GZ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10538,6 +11064,7 @@ var stores = {
           "postcode": "EH6 4LX",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10558,6 +11085,7 @@ var stores = {
           "postcode": "EN1 4LF",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10578,6 +11106,7 @@ var stores = {
           "postcode": "KT19 8PL",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10598,6 +11127,7 @@ var stores = {
           "postcode": "EX2 7NN",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10618,6 +11148,7 @@ var stores = {
           "postcode": "GU9 9ND",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10638,6 +11169,7 @@ var stores = {
           "postcode": "SW6 1BW",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10658,6 +11190,7 @@ var stores = {
           "postcode": "N12 0QZ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10678,6 +11211,7 @@ var stores = {
           "postcode": "RM11 2DY",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10698,6 +11232,7 @@ var stores = {
           "postcode": "PA4 0RA",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10718,6 +11253,7 @@ var stores = {
           "postcode": "G46 7UY",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10738,6 +11274,7 @@ var stores = {
           "postcode": "G13 1BJ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10758,6 +11295,7 @@ var stores = {
           "postcode": "TW2 5JD",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10778,6 +11316,7 @@ var stores = {
           "postcode": "AL10 9AX",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10798,6 +11337,7 @@ var stores = {
           "postcode": "IP3 9SJ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10818,6 +11358,7 @@ var stores = {
           "postcode": "SE12 8HG",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10838,6 +11379,7 @@ var stores = {
           "postcode": "HU7 3DB",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10858,6 +11400,7 @@ var stores = {
           "postcode": "ME19 4UA",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10878,6 +11421,7 @@ var stores = {
           "postcode": "TW5 9PE",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10898,6 +11442,7 @@ var stores = {
           "postcode": "KT1 1QJ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10918,6 +11463,7 @@ var stores = {
           "postcode": "LS6 4QW",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10938,6 +11484,7 @@ var stores = {
           "postcode": "LE19 1JZ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10958,6 +11505,7 @@ var stores = {
           "postcode": "LE19 0LF",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10978,6 +11526,7 @@ var stores = {
           "postcode": "LN1 2BE",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -10998,6 +11547,7 @@ var stores = {
           "postcode": "L33 7ET",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11018,6 +11568,7 @@ var stores = {
           "postcode": "L24 8QD",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11038,6 +11589,7 @@ var stores = {
           "postcode": "LU1 3LU",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11058,6 +11610,7 @@ var stores = {
           "postcode": "SL6 1HJ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11078,6 +11631,7 @@ var stores = {
           "postcode": "ME16 8LW",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11098,6 +11652,7 @@ var stores = {
           "postcode": "M17 8RH",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11118,6 +11673,7 @@ var stores = {
           "postcode": "MK15 0DL",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11138,6 +11694,7 @@ var stores = {
           "postcode": "RG14 7RW",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11158,6 +11715,7 @@ var stores = {
           "postcode": "NE3 1SN",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11178,6 +11736,7 @@ var stores = {
           "postcode": "NG2 7HX",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11198,6 +11757,7 @@ var stores = {
           "postcode": "NG8 5AR",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11218,6 +11778,7 @@ var stores = {
           "postcode": "PO6 4TP",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11238,6 +11799,7 @@ var stores = {
           "postcode": "OX4 2JY",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11258,6 +11820,7 @@ var stores = {
           "postcode": "SW20 8TE",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11278,6 +11841,7 @@ var stores = {
           "postcode": "B90 4ZL",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11298,6 +11862,7 @@ var stores = {
           "postcode": "DA14 5ED",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11318,6 +11883,7 @@ var stores = {
           "postcode": "RG6 1PT",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11338,6 +11904,7 @@ var stores = {
           "postcode": "BH24 3AS",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11358,6 +11925,7 @@ var stores = {
           "postcode": "SO16 0XS",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11378,6 +11946,7 @@ var stores = {
           "postcode": "B90 4NU",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11398,6 +11967,7 @@ var stores = {
           "postcode": "SS2 6XT",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11418,6 +11988,7 @@ var stores = {
           "postcode": "SG1 2UA ",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11438,6 +12009,7 @@ var stores = {
           "postcode": "UB6 0HX",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11458,6 +12030,7 @@ var stores = {
           "postcode": "SN25 4DL",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11478,6 +12051,7 @@ var stores = {
           "postcode": "TS17 6QA",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11498,6 +12072,7 @@ var stores = {
           "postcode": "KT13 0BD",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11518,6 +12093,7 @@ var stores = {
           "postcode": "WA5 1HH",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11538,6 +12114,7 @@ var stores = {
           "postcode": "GU22 9PF",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11558,6 +12135,7 @@ var stores = {
           "postcode": "WR3 8ZE",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11578,6 +12156,7 @@ var stores = {
           "postcode": "BN13 3DL",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11598,6 +12177,7 @@ var stores = {
           "postcode": "YO10 3LF",
           "joiningfee": "\u00a30",
           "markerid": "davidlloydmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.davidlloyd.co.uk/clubs"
         }
       },
@@ -11617,6 +12197,7 @@ var stores = {
           "postcode": "AB11 5EJ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11636,6 +12217,7 @@ var stores = {
           "postcode": "LL57 4TJ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11655,6 +12237,7 @@ var stores = {
           "postcode": "LA14 2GN",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11674,6 +12257,7 @@ var stores = {
           "postcode": "LL57 4TJ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11693,6 +12277,7 @@ var stores = {
           "postcode": "BA1 2BX",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11712,6 +12297,7 @@ var stores = {
           "postcode": "MK41 9LW",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11731,6 +12317,7 @@ var stores = {
           "postcode": "RG24 8NN",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11750,6 +12337,7 @@ var stores = {
           "postcode": "S71 1JE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11769,6 +12357,7 @@ var stores = {
           "postcode": "BT12 6HR",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11788,6 +12377,7 @@ var stores = {
           "postcode": "FY4 4XL",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11807,6 +12397,7 @@ var stores = {
           "postcode": "BL3 2NE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11826,6 +12417,7 @@ var stores = {
           "postcode": "CM14 5LF",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11845,6 +12437,7 @@ var stores = {
           "postcode": "BB11 1NL",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11864,6 +12457,7 @@ var stores = {
           "postcode": "BB1 2EE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11883,6 +12477,7 @@ var stores = {
           "postcode": "BN1 3XE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11902,6 +12497,7 @@ var stores = {
           "postcode": "CH62 3PN",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11921,6 +12517,7 @@ var stores = {
           "postcode": "DE14 1NA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11940,6 +12537,7 @@ var stores = {
           "postcode": "CB1 3ER",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11959,6 +12557,7 @@ var stores = {
           "postcode": "BL9 0BT",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11978,6 +12577,7 @@ var stores = {
           "postcode": "CF11 8EG",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -11997,6 +12597,7 @@ var stores = {
           "postcode": "NE6 2UJ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12016,6 +12617,7 @@ var stores = {
           "postcode": "CF14 5DU",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12035,6 +12637,7 @@ var stores = {
           "postcode": "ML5 3SP",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12054,6 +12657,7 @@ var stores = {
           "postcode": "CA2 4AX",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12073,6 +12677,7 @@ var stores = {
           "postcode": "DD1 3JS",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12092,6 +12697,7 @@ var stores = {
           "postcode": "CT1 1ZG",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12111,6 +12717,7 @@ var stores = {
           "postcode": "DE24 8BW",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12130,6 +12737,7 @@ var stores = {
           "postcode": "GL50 4FA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12149,6 +12757,7 @@ var stores = {
           "postcode": "DN21 2NA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12168,6 +12777,7 @@ var stores = {
           "postcode": "LU5 4WL",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12187,6 +12797,7 @@ var stores = {
           "postcode": "KT17 3HG",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12206,6 +12817,7 @@ var stores = {
           "postcode": "EX4 3BR",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12225,6 +12837,7 @@ var stores = {
           "postcode": "G34 9DL",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12244,6 +12857,7 @@ var stores = {
           "postcode": "GL1 2TE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12263,6 +12877,7 @@ var stores = {
           "postcode": "IP2 0AQ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12282,6 +12897,7 @@ var stores = {
           "postcode": "WF17 9TD",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12301,6 +12917,7 @@ var stores = {
           "postcode": "HU9 2AP",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12320,6 +12937,7 @@ var stores = {
           "postcode": "HX3 9XQ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12339,6 +12957,7 @@ var stores = {
           "postcode": "LE1 1WA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12358,6 +12977,7 @@ var stores = {
           "postcode": "IV2 7GD",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12377,6 +12997,7 @@ var stores = {
           "postcode": "WN7 5SJ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12396,6 +13017,7 @@ var stores = {
           "postcode": "LN6 7QY",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12415,6 +13037,7 @@ var stores = {
           "postcode": "L24 9GQ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12434,6 +13057,7 @@ var stores = {
           "postcode": "SA14 9UY",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12453,6 +13077,7 @@ var stores = {
           "postcode": "HD5 9AJ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12472,6 +13097,7 @@ var stores = {
           "postcode": "EC1V 1LR",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12491,6 +13117,7 @@ var stores = {
           "postcode": "W1U 8EW",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12510,6 +13137,7 @@ var stores = {
           "postcode": "DY10 1AA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12529,6 +13157,7 @@ var stores = {
           "postcode": "SW17 7BA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12548,6 +13177,7 @@ var stores = {
           "postcode": "SE1 2QN",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12567,6 +13197,7 @@ var stores = {
           "postcode": "SE1 9SG",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12586,6 +13217,7 @@ var stores = {
           "postcode": "EC2N 4AJ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12605,6 +13237,7 @@ var stores = {
           "postcode": "EC2M 2QS",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12624,6 +13257,7 @@ var stores = {
           "postcode": "EC2M 4WY",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12643,6 +13277,7 @@ var stores = {
           "postcode": "SW11 1LJ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12662,6 +13297,7 @@ var stores = {
           "postcode": "EC3V 0EE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12681,6 +13317,7 @@ var stores = {
           "postcode": "EC4A 1QX",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12700,6 +13337,7 @@ var stores = {
           "postcode": "SW11 1SA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12719,6 +13357,7 @@ var stores = {
           "postcode": "SW9 9SP",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12738,6 +13377,7 @@ var stores = {
           "postcode": "NW1 7NE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12757,6 +13397,7 @@ var stores = {
           "postcode": "EC3M 5JE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12776,6 +13417,7 @@ var stores = {
           "postcode": "N4 1DT",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12795,6 +13437,7 @@ var stores = {
           "postcode": "W6 7HA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12814,6 +13457,7 @@ var stores = {
           "postcode": "N5 1FE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12833,6 +13477,7 @@ var stores = {
           "postcode": "WC1V 7EX",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12852,6 +13497,7 @@ var stores = {
           "postcode": "IG1 1NJ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12871,6 +13517,7 @@ var stores = {
           "postcode": "E10 5NH",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12890,6 +13537,7 @@ var stores = {
           "postcode": "EC2M 7PY",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12909,6 +13557,7 @@ var stores = {
           "postcode": "EC4R 3TR",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12928,6 +13577,7 @@ var stores = {
           "postcode": "EC4V 4HN",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12947,6 +13597,7 @@ var stores = {
           "postcode": "W1F 7HR",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12966,6 +13617,7 @@ var stores = {
           "postcode": "W12 8PP",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -12985,6 +13637,7 @@ var stores = {
           "postcode": "RM1 1TB",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13004,6 +13657,7 @@ var stores = {
           "postcode": "NW6 6RG",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13023,6 +13677,7 @@ var stores = {
           "postcode": "SW16 1EH",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13042,6 +13697,7 @@ var stores = {
           "postcode": "W1T 7PA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13061,6 +13717,7 @@ var stores = {
           "postcode": "WC2B 4DD",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13080,6 +13737,7 @@ var stores = {
           "postcode": "BT47 5FR",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13099,6 +13757,7 @@ var stores = {
           "postcode": "SK11 6JD",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13118,6 +13777,7 @@ var stores = {
           "postcode": "CF48 1HY",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13137,6 +13797,7 @@ var stores = {
           "postcode": "NG18 1HA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13156,6 +13817,7 @@ var stores = {
           "postcode": "MK1 1ST",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13175,6 +13837,7 @@ var stores = {
           "postcode": "NP20 2NN",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13194,6 +13857,7 @@ var stores = {
           "postcode": "LA4 4DW",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13213,6 +13877,7 @@ var stores = {
           "postcode": "BT37 9UL",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13232,6 +13897,7 @@ var stores = {
           "postcode": "NN1 1EE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13251,6 +13917,7 @@ var stores = {
           "postcode": "OL2 5HX",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13270,6 +13937,7 @@ var stores = {
           "postcode": "NG4 2PA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13289,6 +13957,7 @@ var stores = {
           "postcode": "BH15 3SY",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13308,6 +13977,7 @@ var stores = {
           "postcode": "YO8 8NA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13327,6 +13997,7 @@ var stores = {
           "postcode": "PR8 1SQ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13346,6 +14017,7 @@ var stores = {
           "postcode": "PR2 2YQ",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13365,6 +14037,7 @@ var stores = {
           "postcode": "BH12 1DN",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13384,6 +14057,7 @@ var stores = {
           "postcode": "B92 8DS",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13403,6 +14077,7 @@ var stores = {
           "postcode": "TF3 4AG",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13422,6 +14097,7 @@ var stores = {
           "postcode": "CT10 2BF",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13441,6 +14117,7 @@ var stores = {
           "postcode": "SN25 4BG",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13460,6 +14137,7 @@ var stores = {
           "postcode": "SR5 3XG",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13479,6 +14157,7 @@ var stores = {
           "postcode": "SS1 3RB",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13498,6 +14177,7 @@ var stores = {
           "postcode": "ST6 6BE",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13517,6 +14197,7 @@ var stores = {
           "postcode": "WA1 2AS",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13536,6 +14217,7 @@ var stores = {
           "postcode": "LL11 2BA",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13555,6 +14237,7 @@ var stores = {
           "postcode": "WA8 6LS",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13574,6 +14257,7 @@ var stores = {
           "postcode": "WN5 0UN",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13593,6 +14277,7 @@ var stores = {
           "postcode": "LS19 7EN",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13612,6 +14297,7 @@ var stores = {
           "postcode": "CW7 1BG",
           "joiningfee": "\u00a30",
           "markerid": "dwfitnessmarker",
+          "type": "Gym",
           "gymlink": "https://www.dwfitnessfirst.com/join/"
         }
       },
@@ -13631,6 +14317,7 @@ var stores = {
           "postcode": "DA5 1LW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13650,6 +14337,7 @@ var stores = {
           "postcode": "WC2H 9AG",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13669,6 +14357,7 @@ var stores = {
           "postcode": "DA14 6EH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13688,6 +14377,7 @@ var stores = {
           "postcode": "N1C 4AG",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13707,6 +14397,7 @@ var stores = {
           "postcode": "CR0 6NN",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13726,6 +14417,7 @@ var stores = {
           "postcode": "CR7 8LF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13745,6 +14437,7 @@ var stores = {
           "postcode": "CR8 2AA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13764,6 +14457,7 @@ var stores = {
           "postcode": "CR0 0JB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13783,6 +14477,7 @@ var stores = {
           "postcode": "SE25 4QL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13802,6 +14497,7 @@ var stores = {
           "postcode": "DA6 8DT",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13821,6 +14517,7 @@ var stores = {
           "postcode": "NW5 3AF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13840,6 +14537,7 @@ var stores = {
           "postcode": "SE25 4PT",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13859,6 +14557,7 @@ var stores = {
           "postcode": "NW5 3DU",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13878,6 +14577,7 @@ var stores = {
           "postcode": "NW3 3NF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13897,6 +14597,7 @@ var stores = {
           "postcode": "CR2 8HD",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13916,6 +14617,7 @@ var stores = {
           "postcode": "N16 9EX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13935,6 +14637,7 @@ var stores = {
           "postcode": "N1 5JU",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13954,6 +14657,7 @@ var stores = {
           "postcode": "CR0 4RG",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13973,6 +14677,7 @@ var stores = {
           "postcode": "E9 5PF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -13992,6 +14697,7 @@ var stores = {
           "postcode": "E5 0NU",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14011,6 +14717,7 @@ var stores = {
           "postcode": "E9 5HW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14030,6 +14737,7 @@ var stores = {
           "postcode": "E8 3EU",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14049,6 +14757,7 @@ var stores = {
           "postcode": "E15 2GW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14068,6 +14777,7 @@ var stores = {
           "postcode": "E8 3XW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14087,6 +14797,7 @@ var stores = {
           "postcode": "W6 8DW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14106,6 +14817,7 @@ var stores = {
           "postcode": "SW6 7PD",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14125,6 +14837,7 @@ var stores = {
           "postcode": "SW9 8QQ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14144,6 +14857,7 @@ var stores = {
           "postcode": "W12 7DB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14163,6 +14877,7 @@ var stores = {
           "postcode": "N4 2HA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14182,6 +14897,7 @@ var stores = {
           "postcode": "SE5 9DF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14201,6 +14917,7 @@ var stores = {
           "postcode": "SE24 0AG",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14220,6 +14937,7 @@ var stores = {
           "postcode": "SW16 6HX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14239,6 +14957,7 @@ var stores = {
           "postcode": "SW8 1DY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14258,6 +14977,7 @@ var stores = {
           "postcode": "SW9 8BP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14277,6 +14997,7 @@ var stores = {
           "postcode": "SE27 0DF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14296,6 +15017,7 @@ var stores = {
           "postcode": "N19 5DD",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14315,6 +15037,7 @@ var stores = {
           "postcode": "N7 0EQ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14334,6 +15057,7 @@ var stores = {
           "postcode": "N7 8GA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14353,6 +15077,7 @@ var stores = {
           "postcode": "SW4 6DB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14372,6 +15097,7 @@ var stores = {
           "postcode": "SW4 9DE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14391,6 +15117,7 @@ var stores = {
           "postcode": "EC1V 3PU",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14410,6 +15137,7 @@ var stores = {
           "postcode": "N5 1QP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14429,6 +15157,7 @@ var stores = {
           "postcode": "N1 0NH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14448,6 +15177,7 @@ var stores = {
           "postcode": "N1 3JP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14467,6 +15197,7 @@ var stores = {
           "postcode": "N7 9PL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14486,6 +15217,7 @@ var stores = {
           "postcode": "N5 1RR",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14505,6 +15237,7 @@ var stores = {
           "postcode": "EC1V 3AA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14524,6 +15257,7 @@ var stores = {
           "postcode": "N7 8PF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14543,6 +15277,7 @@ var stores = {
           "postcode": "N7 0EB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14562,6 +15297,7 @@ var stores = {
           "postcode": "N7 9PL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14581,6 +15317,7 @@ var stores = {
           "postcode": "N7 7NY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14600,6 +15337,7 @@ var stores = {
           "postcode": "N4 3LP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14619,6 +15357,7 @@ var stores = {
           "postcode": "N1 2DL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14638,6 +15377,7 @@ var stores = {
           "postcode": "UB3 2HW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14657,6 +15397,7 @@ var stores = {
           "postcode": "N19 4RS",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14676,6 +15417,7 @@ var stores = {
           "postcode": "HA4 8DZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14695,6 +15437,7 @@ var stores = {
           "postcode": "RM8 2JR",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14714,6 +15457,7 @@ var stores = {
           "postcode": "W13 0AL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14733,6 +15477,7 @@ var stores = {
           "postcode": "W3 8LQ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14752,6 +15497,7 @@ var stores = {
           "postcode": "SE18 4LX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14771,6 +15517,7 @@ var stores = {
           "postcode": "HA4 0JE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14790,6 +15537,7 @@ var stores = {
           "postcode": "SE18 6LW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14809,6 +15557,7 @@ var stores = {
           "postcode": "SE19 2BB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14828,6 +15577,7 @@ var stores = {
           "postcode": "SE9 3JB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14847,6 +15597,7 @@ var stores = {
           "postcode": "SE9 1HA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14866,6 +15617,7 @@ var stores = {
           "postcode": "SE28 8RE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14885,6 +15637,7 @@ var stores = {
           "postcode": "UB8 1ES",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14904,6 +15657,7 @@ var stores = {
           "postcode": "SE9 3LX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14923,6 +15677,7 @@ var stores = {
           "postcode": "SE3 9PY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14942,6 +15697,7 @@ var stores = {
           "postcode": "SE10 9GB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14961,6 +15717,7 @@ var stores = {
           "postcode": "SE10 9BX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14980,6 +15737,7 @@ var stores = {
           "postcode": "SE18 1JL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -14999,6 +15757,7 @@ var stores = {
           "postcode": "SE18 7RS",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15018,6 +15777,7 @@ var stores = {
           "postcode": "SE18 7NN",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15037,6 +15797,7 @@ var stores = {
           "postcode": "SE18 6DL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15056,6 +15817,7 @@ var stores = {
           "postcode": "SE18 5NZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15075,6 +15837,7 @@ var stores = {
           "postcode": "SE9 5LW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15094,6 +15857,7 @@ var stores = {
           "postcode": "N12 0GL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15113,6 +15877,7 @@ var stores = {
           "postcode": "NW4 1PX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15132,6 +15897,7 @@ var stores = {
           "postcode": "HA8 0NP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15151,6 +15917,7 @@ var stores = {
           "postcode": "E20 1DB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15170,6 +15937,7 @@ var stores = {
           "postcode": "EN4 9BS",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15189,6 +15957,7 @@ var stores = {
           "postcode": "E3 4HL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15208,6 +15977,7 @@ var stores = {
           "postcode": "NW2 1XQ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15227,6 +15997,7 @@ var stores = {
           "postcode": "SW3 5PL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15246,6 +16017,7 @@ var stores = {
           "postcode": "E14 0ED",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15265,6 +16037,7 @@ var stores = {
           "postcode": "E14 8PX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15284,6 +16057,7 @@ var stores = {
           "postcode": "RM1 3AB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15303,6 +16077,7 @@ var stores = {
           "postcode": "W10 6EX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15322,6 +16097,7 @@ var stores = {
           "postcode": "TW11 8QZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15341,6 +16117,7 @@ var stores = {
           "postcode": "E1W 3BP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15360,6 +16137,7 @@ var stores = {
           "postcode": "E2 9PJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15379,6 +16157,7 @@ var stores = {
           "postcode": "E1 5BA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15398,6 +16177,7 @@ var stores = {
           "postcode": "E1W 2QD",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15417,6 +16197,7 @@ var stores = {
           "postcode": "CA15 8AD",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15436,6 +16217,7 @@ var stores = {
           "postcode": "HA9 0EF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15455,6 +16237,7 @@ var stores = {
           "postcode": "CA12 4NE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15474,6 +16257,7 @@ var stores = {
           "postcode": "SM1 3HH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15493,6 +16277,7 @@ var stores = {
           "postcode": "E4 9EY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15512,6 +16297,7 @@ var stores = {
           "postcode": "CA14 2DX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15531,6 +16317,7 @@ var stores = {
           "postcode": "HA1 1HS",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15550,6 +16337,7 @@ var stores = {
           "postcode": "E10 5UE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15569,6 +16357,7 @@ var stores = {
           "postcode": "CA13 9JR",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15588,6 +16377,7 @@ var stores = {
           "postcode": "E4 8SJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15607,6 +16397,7 @@ var stores = {
           "postcode": "E10 5AB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15626,6 +16417,7 @@ var stores = {
           "postcode": "HA5 3HZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15645,6 +16437,7 @@ var stores = {
           "postcode": "E17 8RN",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15664,6 +16457,7 @@ var stores = {
           "postcode": "M8 5UF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15683,6 +16477,7 @@ var stores = {
           "postcode": "E17 4HR",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15702,6 +16497,7 @@ var stores = {
           "postcode": "M11 3ND",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15721,6 +16517,7 @@ var stores = {
           "postcode": "M15 6FG",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15740,6 +16537,7 @@ var stores = {
           "postcode": "M12 4DY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15759,6 +16557,7 @@ var stores = {
           "postcode": "E11 4LA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15778,6 +16577,7 @@ var stores = {
           "postcode": "E17 5AA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15797,6 +16597,7 @@ var stores = {
           "postcode": "M12 4TF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15816,6 +16617,7 @@ var stores = {
           "postcode": "M20 1HD",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15835,6 +16637,7 @@ var stores = {
           "postcode": "M13 9SS",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15854,6 +16657,7 @@ var stores = {
           "postcode": "M18 7LJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15873,6 +16677,7 @@ var stores = {
           "postcode": "M19 3PH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15892,6 +16697,7 @@ var stores = {
           "postcode": "M11 3FF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15911,6 +16717,7 @@ var stores = {
           "postcode": "M1 7HL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15930,6 +16737,7 @@ var stores = {
           "postcode": "M9 4DA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15949,6 +16757,7 @@ var stores = {
           "postcode": "M18 8HE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15968,6 +16777,7 @@ var stores = {
           "postcode": "M11 3DU",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -15987,6 +16797,7 @@ var stores = {
           "postcode": "M40 2SP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16006,6 +16817,7 @@ var stores = {
           "postcode": "M15 5NN",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16025,6 +16837,7 @@ var stores = {
           "postcode": "M16 8GW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16044,6 +16857,7 @@ var stores = {
           "postcode": "M12 4WB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16063,6 +16877,7 @@ var stores = {
           "postcode": "CA28 8RW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16082,6 +16897,7 @@ var stores = {
           "postcode": "CA11 8UU",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16101,6 +16917,7 @@ var stores = {
           "postcode": "CA16 6QR",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16120,6 +16937,7 @@ var stores = {
           "postcode": "CA25 5AN",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16139,6 +16957,7 @@ var stores = {
           "postcode": "CA1 3PP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16158,6 +16977,7 @@ var stores = {
           "postcode": "CA11 8JH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16177,6 +16997,7 @@ var stores = {
           "postcode": "CA3 8UZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16196,6 +17017,7 @@ var stores = {
           "postcode": "CA2 5AH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16215,6 +17037,7 @@ var stores = {
           "postcode": "CA3 8XL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16234,6 +17057,7 @@ var stores = {
           "postcode": "CA28 7RJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16253,6 +17077,7 @@ var stores = {
           "postcode": "CA2 6LB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16272,6 +17097,7 @@ var stores = {
           "postcode": "PR1 5EP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16291,6 +17117,7 @@ var stores = {
           "postcode": "CA1 1NA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16310,6 +17137,7 @@ var stores = {
           "postcode": "BH8 8DL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16329,6 +17157,7 @@ var stores = {
           "postcode": "CA1 1JB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16348,6 +17177,7 @@ var stores = {
           "postcode": "PR2 9YA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16367,6 +17197,7 @@ var stores = {
           "postcode": "LA9 7HX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16386,6 +17217,7 @@ var stores = {
           "postcode": "LA23 3HE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16405,6 +17237,7 @@ var stores = {
           "postcode": "LA23 1BP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16424,6 +17257,7 @@ var stores = {
           "postcode": "HP16 9QY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16443,6 +17277,7 @@ var stores = {
           "postcode": "PO4 8SH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16462,6 +17297,7 @@ var stores = {
           "postcode": "LA12 9HT",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16481,6 +17317,7 @@ var stores = {
           "postcode": "SW19 1EW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16500,6 +17337,7 @@ var stores = {
           "postcode": "CR4 2PE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16519,6 +17357,7 @@ var stores = {
           "postcode": "SN3 1RA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16538,6 +17377,7 @@ var stores = {
           "postcode": "SS14 2WB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16557,6 +17397,7 @@ var stores = {
           "postcode": "SL0 0HS",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16576,6 +17417,7 @@ var stores = {
           "postcode": "SN3 5DA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16595,6 +17437,7 @@ var stores = {
           "postcode": "SN25 1QQ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16614,6 +17457,7 @@ var stores = {
           "postcode": "CR4 4HD",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16633,6 +17477,7 @@ var stores = {
           "postcode": "HP9 1RJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16652,6 +17497,7 @@ var stores = {
           "postcode": "SN5 7XF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16671,6 +17517,7 @@ var stores = {
           "postcode": "SM4 5HE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16690,6 +17537,7 @@ var stores = {
           "postcode": "OX7 5DY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16709,6 +17557,7 @@ var stores = {
           "postcode": "OX18 1AA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16728,6 +17577,7 @@ var stores = {
           "postcode": "OX28 4YA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16747,6 +17597,7 @@ var stores = {
           "postcode": "OX18 1BU",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16766,6 +17617,7 @@ var stores = {
           "postcode": "SN1 5JA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16785,6 +17637,7 @@ var stores = {
           "postcode": "OX14 3JE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16804,6 +17657,7 @@ var stores = {
           "postcode": "OX20 1LW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16823,6 +17677,7 @@ var stores = {
           "postcode": "OX18 3AN",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16842,6 +17697,7 @@ var stores = {
           "postcode": "OX29 4AP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16861,6 +17717,7 @@ var stores = {
           "postcode": "OX28 4EH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16880,6 +17737,7 @@ var stores = {
           "postcode": "OX12 9BY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16899,6 +17757,7 @@ var stores = {
           "postcode": "SN2 1EP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16918,6 +17777,7 @@ var stores = {
           "postcode": "SN5 7DL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16937,6 +17797,7 @@ var stores = {
           "postcode": "OX14 3PJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16956,6 +17817,7 @@ var stores = {
           "postcode": "RG1 8EQ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16975,6 +17837,7 @@ var stores = {
           "postcode": "CB5 8NT",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -16994,6 +17857,7 @@ var stores = {
           "postcode": "SN7 7LB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17013,6 +17877,7 @@ var stores = {
           "postcode": "CB4 3AX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17032,6 +17897,7 @@ var stores = {
           "postcode": "B74 2UW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17051,6 +17917,7 @@ var stores = {
           "postcode": "CB1 9EJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17070,6 +17937,7 @@ var stores = {
           "postcode": "BS25 5QL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17089,6 +17957,7 @@ var stores = {
           "postcode": "CB5 8AA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17108,6 +17977,7 @@ var stores = {
           "postcode": "CB4 2XF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17127,6 +17997,7 @@ var stores = {
           "postcode": "TR13 8YQ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17146,6 +18017,7 @@ var stores = {
           "postcode": "PL15 9DQ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17165,6 +18037,7 @@ var stores = {
           "postcode": "EX23 8AR",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17184,6 +18057,7 @@ var stores = {
           "postcode": "CB1 1LY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17203,6 +18077,7 @@ var stores = {
           "postcode": "TR26 1HB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17222,6 +18097,7 @@ var stores = {
           "postcode": "TR1 3GA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17241,6 +18117,7 @@ var stores = {
           "postcode": "PL25 4DB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17260,6 +18137,7 @@ var stores = {
           "postcode": "PL31 1DE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17279,6 +18157,7 @@ var stores = {
           "postcode": "PL12 6DJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17298,6 +18177,7 @@ var stores = {
           "postcode": "TR11 4NG",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17317,6 +18197,7 @@ var stores = {
           "postcode": "AL6 0DG",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17336,6 +18217,7 @@ var stores = {
           "postcode": "AL8 6XE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17355,6 +18237,7 @@ var stores = {
           "postcode": "PL14 3HZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17374,6 +18257,7 @@ var stores = {
           "postcode": "AL10 8TJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17393,6 +18277,7 @@ var stores = {
           "postcode": "AL10 0DH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17412,6 +18297,7 @@ var stores = {
           "postcode": "AL7 4BP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17431,6 +18317,7 @@ var stores = {
           "postcode": "PL27 6BU",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17450,6 +18337,7 @@ var stores = {
           "postcode": "TR7 2LZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17469,6 +18357,7 @@ var stores = {
           "postcode": "AL8 6DF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17488,6 +18377,7 @@ var stores = {
           "postcode": "WS9 9NT",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17507,6 +18397,7 @@ var stores = {
           "postcode": "AL7 2RT",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17526,6 +18417,7 @@ var stores = {
           "postcode": "AL7 2ED",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17545,6 +18437,7 @@ var stores = {
           "postcode": "BD5 0NL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17564,6 +18457,7 @@ var stores = {
           "postcode": "WS11 0XF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17583,6 +18477,7 @@ var stores = {
           "postcode": "YO31 0HA  ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17602,6 +18497,7 @@ var stores = {
           "postcode": "YO32 9AF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17621,6 +18517,7 @@ var stores = {
           "postcode": "TF2 7AB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17640,6 +18537,7 @@ var stores = {
           "postcode": "BT11 9BY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17659,6 +18557,7 @@ var stores = {
           "postcode": "BT14 7QP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17678,6 +18577,7 @@ var stores = {
           "postcode": "YO31 8SB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17697,6 +18597,7 @@ var stores = {
           "postcode": "YO24 3DX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17716,6 +18617,7 @@ var stores = {
           "postcode": "BT14QN",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17735,6 +18637,7 @@ var stores = {
           "postcode": "CV22 5LJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17754,6 +18657,7 @@ var stores = {
           "postcode": "BT17 0RL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17773,6 +18677,7 @@ var stores = {
           "postcode": "BT12 4PB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17792,6 +18697,7 @@ var stores = {
           "postcode": "BT8 7DT",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17811,6 +18717,7 @@ var stores = {
           "postcode": "BT14 6EG",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17830,6 +18737,7 @@ var stores = {
           "postcode": "BT15 3PZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17849,6 +18757,7 @@ var stores = {
           "postcode": "BT5 4AF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17868,6 +18777,7 @@ var stores = {
           "postcode": "BT6 9HS",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17887,6 +18797,7 @@ var stores = {
           "postcode": "BT13 2BD",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17906,6 +18817,7 @@ var stores = {
           "postcode": "BT12 6FA ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17925,6 +18837,7 @@ var stores = {
           "postcode": "BT12 7RJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17944,6 +18857,7 @@ var stores = {
           "postcode": "BT15 3HF",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17963,6 +18877,7 @@ var stores = {
           "postcode": "BT6 8LT",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -17982,6 +18897,7 @@ var stores = {
           "postcode": "CM14 4BX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18001,6 +18917,7 @@ var stores = {
           "postcode": "OX10 7NR",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18020,6 +18937,7 @@ var stores = {
           "postcode": "OX11 8NX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18039,6 +18957,7 @@ var stores = {
           "postcode": "OX11 8AY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18058,6 +18977,7 @@ var stores = {
           "postcode": "OX33 1QZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18077,6 +18997,7 @@ var stores = {
           "postcode": "OX10 8EB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18096,6 +19017,7 @@ var stores = {
           "postcode": "RH6 8SP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18115,6 +19037,7 @@ var stores = {
           "postcode": "KT17 1BN",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18134,6 +19057,7 @@ var stores = {
           "postcode": "NE6 1AL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18153,6 +19077,7 @@ var stores = {
           "postcode": "KT20 5FB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18172,6 +19097,7 @@ var stores = {
           "postcode": "RG9 1PA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18191,6 +19117,7 @@ var stores = {
           "postcode": "NE3 3HD",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18210,6 +19137,7 @@ var stores = {
           "postcode": "RH1 1DP",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18229,6 +19157,7 @@ var stores = {
           "postcode": "OX9 2BB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18248,6 +19177,7 @@ var stores = {
           "postcode": "NE1 7XY",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18267,6 +19197,7 @@ var stores = {
           "postcode": "NE4 9LG",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18286,6 +19217,7 @@ var stores = {
           "postcode": "NE6 3BR",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18305,6 +19237,7 @@ var stores = {
           "postcode": "NE5 2QZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18324,6 +19257,7 @@ var stores = {
           "postcode": "LN6 9AX",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18343,6 +19277,7 @@ var stores = {
           "postcode": "LN6 7BH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18362,6 +19297,7 @@ var stores = {
           "postcode": "NG34 7HH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18381,6 +19317,7 @@ var stores = {
           "postcode": "BA2 4ET",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18400,6 +19337,7 @@ var stores = {
           "postcode": "BA1 2DS",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18419,6 +19357,7 @@ var stores = {
           "postcode": "CB6 2FE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18438,6 +19377,7 @@ var stores = {
           "postcode": "NG34 7EH",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18457,6 +19397,7 @@ var stores = {
           "postcode": "BA2 2QL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18476,6 +19417,7 @@ var stores = {
           "postcode": "BS40 8QB ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18495,6 +19437,7 @@ var stores = {
           "postcode": "BA2 5NA",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18514,6 +19457,7 @@ var stores = {
           "postcode": "BA2 2PR",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18533,6 +19477,7 @@ var stores = {
           "postcode": "CF14 5EB",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18552,6 +19497,7 @@ var stores = {
           "postcode": "CF23 5HW",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18571,6 +19517,7 @@ var stores = {
           "postcode": "CF5 3LL",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18590,6 +19537,7 @@ var stores = {
           "postcode": "CF23 7EZ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18609,6 +19557,7 @@ var stores = {
           "postcode": "CF24 2SJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18628,6 +19577,7 @@ var stores = {
           "postcode": "CF14 3AJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18647,6 +19597,7 @@ var stores = {
           "postcode": "CF3 4DN",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18666,6 +19617,7 @@ var stores = {
           "postcode": "BS31 1HE",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
         }
       },
@@ -18685,7 +19637,1548 @@ var stores = {
           "postcode": "CF5 5HJ",
           "joiningfee": "\u00a30",
           "markerid": "bettergymmarker",
+          "type": "Leisure Centre",
           "gymlink": "https://www.better.org.uk/leisure-centres"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.463216,
+            51.571939
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BASILDON",
+          "price": "\u00a39.99",
+          "address": "108-110 Southernhay / Basildon / SS14 1BF",
+          "postcode": "SS14 1BF",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BASILDON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.057452,
+            51.525202
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BETHNAL GREEN",
+          "price": "\u00a322.99",
+          "address": "Pill Box / 115 Coventry Road / Bethnal Green / E2 6JB",
+          "postcode": "E2 6JB",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BETHNAL GREEN"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.486117,
+            51.202796
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness ANDOVER",
+          "price": "\u00a319.99",
+          "address": "Units 13-14 Anton Business Park / Anton Mill Road / Andover / Hampshire / SP10 2NJ",
+          "postcode": "SP10 2NJ",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/ANDOVER"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.469275,
+            52.135677
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BEDFORD",
+          "price": "\u00a318.99",
+          "address": "Harpur Centre / Basement Unit / Horne Lane / Bedford / MK40 1TS",
+          "postcode": "MK40 1TS",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BEDFORD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.171305,
+            51.468879
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BATTERSEA",
+          "price": "\u00a327.99",
+          "address": "44 Falcon Road / London / SW11 2LR",
+          "postcode": "SW11 2LR",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BATTERSEA"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.324006,
+            52.065039
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BANBURY",
+          "price": "\u00a319.99",
+          "address": "St. Leonard's Old School / Middleton Road / Banbury / OX16 4RE",
+          "postcode": "OX16 4RE",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BANBURY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.691372,
+            54.954868
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BLAYDON",
+          "price": "\u00a314.99",
+          "address": "Blaydon Rugby Club / Hexham Road / Swalwell / Gateshead / NE16 3BN",
+          "postcode": "NE16 3BN",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BLAYDON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.57543,
+            51.503886
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BRIDGEND",
+          "price": "\u00a321.99",
+          "address": "Unit 21 / Bridgend Shopping Centre / Brackla Street / Bridgend / CF31 1DD",
+          "postcode": "CF31 1DD",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BRIDGEND"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.303394,
+            51.490809
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BRENTFORD",
+          "price": "\u00a329.99",
+          "address": "Building 2 / Westgate House / Greatwest Quarter / Ealing Road / TW8 0GN",
+          "postcode": "TW8 0GN",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BRENTFORD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.560678,
+            51.870204
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BRAINTREE",
+          "price": "\u00a324.99",
+          "address": "Skitts Hill / Braintree / CM7 1AS",
+          "postcode": "CM7 1AS",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BRAINTREE"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.016898,
+            51.519587
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BOW",
+          "price": "\u00a326.99",
+          "address": "Unit A1 / Caspian Wharf / Violet Road / London / E3 3FW",
+          "postcode": "E3 3FW",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BOW"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.05901,
+            52.976532
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BOSTON",
+          "price": "\u00a324.99",
+          "address": "Units 1-4 Enterprise Way / Endeavour Park / Boston / Lincolnshire / PE21 7TW",
+          "postcode": "PE21 7TW",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BOSTON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.100348,
+            51.50212
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BOROUGH",
+          "price": "\u00a319.99",
+          "address": "Moonraker Point / 1 Pocock Street / Units 4 / London / SE1 0FN",
+          "postcode": "SE1 0FN",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BOROUGH"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.664448,
+            50.8002
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BOGNOR REGIS",
+          "price": "\u00a324.99",
+          "address": "8 Clock Park / Shripney Road / Bognor Regis / PO22 9NH",
+          "postcode": "PO22 9NH",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BOGNOR REGIS"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.568009,
+            51.434425
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BRISTOL",
+          "price": "\u00a325.99",
+          "address": "Energie Fitness Bristol Broadwalk / Broadwalk Shopping Centre / Knowle / Bristol / BS4 2QU",
+          "postcode": "BS4 2QU",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BRISTOL"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.991602,
+            51.145676
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness BRIDGWATER",
+          "price": "\u00a329.99",
+          "address": "First Floor The Exchange / Express Park / Bridgwater / Somerset / TA6 4RR",
+          "postcode": "TA6 4RR",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/BRIDGWATER"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4.165864,
+            55.819452
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CAMBUSLANG",
+          "price": "\u00a322.99",
+          "address": "37 Main Street / Cambuslang / G72 7EX",
+          "postcode": "G72 7EX",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CAMBUSLANG"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            1.086042,
+            51.276294
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CANTERBURY",
+          "price": "\u00a319.99",
+          "address": "Unit 7 / St. George Centre / Canterbury / Kent / CT1 1UL",
+          "postcode": "CT1 1UL",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CANTERBURY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.106334,
+            51.53047
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CARDIFF",
+          "price": "\u00a314.99",
+          "address": "Building One / Eastern Business Park / Suite 3-8 / Cardiff / CF3 5EA",
+          "postcode": "CF3 5EA",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CARDIFF"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.186408,
+            51.454111
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CARDIFF BAY",
+          "price": "\u00a39.99",
+          "address": "Unit 4 / Dunleavy Drive / Cardiff / CF11 0SR",
+          "postcode": "CF11 0SR",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CARDIFF BAY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.016597,
+            51.449196
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CATFORD",
+          "price": "\u00a319.99",
+          "address": "49A Rushey Green / Catford / SE6 4AS",
+          "postcode": "SE6 4AS",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CATFORD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.204122,
+            53.358731
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CHEADLE",
+          "price": "\u00a319.99",
+          "address": "Unit 4E / Stanley Green Trading Estate / Cheadle / Cheshire / SK8 6RX",
+          "postcode": "SK8 6RX",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CHEADLE"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.469043,
+            51.735253
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CHELMSFORD",
+          "price": "\u00a312.50",
+          "address": "Unit 2 / Waterhouse Court / Victoria Road South / Chelmsford / CM1 1LN",
+          "postcode": "CM1 1LN",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CHELMSFORD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.739249,
+            52.480332
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CHELMSLEY",
+          "price": "\u00a319.99",
+          "address": "5/9 West The Mall / Chelmsley Wood Shopping Centre / Solihull / B37 5TT",
+          "postcode": "B37 5TT",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CHELMSLEY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.116135,
+            51.916486
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CHELTENHAM",
+          "price": "\u00a318.99",
+          "address": "Blaisdon Way / Cheltenham / Gloucestershire / GL51 0WR",
+          "postcode": "GL51 0WR",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CHELTENHAM"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.018245,
+            51.610418
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CHINGFORD",
+          "price": "\u00a324.99",
+          "address": "83 Chingford Mount Road / Chingford / London / E4 8LU",
+          "postcode": "E4 8LU",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CHINGFORD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.844936,
+            51.878537
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness COLCHESTER",
+          "price": "\u00a322.99",
+          "address": "Unit 4 Stanway Retail Park / Peartree Road / Colchester / CO3 0LX",
+          "postcode": "CO3 0LX",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/COLCHESTER"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.180087,
+            51.113666
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CRAWLEY",
+          "price": "\u00a322.99",
+          "address": "Unit 11 / Denvale Trade Park / RH10 1SS",
+          "postcode": "RH10 1SS",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CRAWLEY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.211309,
+            51.552966
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CRICKLEWOOD",
+          "price": "\u00a324.99",
+          "address": "27 Cricklewood Broadway  / Cricklewood  / London  / NW2 3JX",
+          "postcode": "NW2 3JX",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CRICKLEWOOD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.090337,
+            51.377939
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness CROYDON",
+          "price": "\u00a322.99",
+          "address": "Stephenson House; / 2 Cherry Orchard Road / Croydon / Surrey / CR0 6BA",
+          "postcode": "CR0 6BA",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/CROYDON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.246855,
+            53.483332
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness DEANSGATE MANCHESTER",
+          "price": "\u00a321.99",
+          "address": "Lower Ground Floor / Maybrook House / 40 Blackfriars Street / Manchester / M3 2EG",
+          "postcode": "M3 2EG",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/DEANSGATE MANCHESTER"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.491892,
+            52.925302
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness DERBY",
+          "price": "\u00a321.99",
+          "address": "Ground Floor / 29-31a Ashbourne Road / Derby / DE22 3FQ",
+          "postcode": "DE22 3FQ",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/DERBY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.030386,
+            53.209526
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness DEESIDE",
+          "price": "\u00a322.99",
+          "address": "Deeside Retail Park / Chester Road East / Queensferry / Flintshire / CH5 1JJ",
+          "postcode": "CH5 1JJ",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/DEESIDE"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4.569309,
+            55.943296
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness DUMBARTON",
+          "price": "\u00a324.99",
+          "address": "32 High Street / Dumbarton  / West Dunbartonshire / G82 1LL",
+          "postcode": "G82 1LL",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/DUMBARTON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.924823,
+            56.479551
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness DUNDEE ",
+          "price": "\u00a324.99",
+          "address": "Kingscourt Douglas Road / Dundee / Angus / Scotland / DD4 8LF",
+          "postcode": "DD4 8LF",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/DUNDEE "
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.010354,
+            51.12662
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness EAST GRINSTEAD",
+          "price": "\u00a327.99",
+          "address": "115 London Road / East Grinstead / West Sussex / RH19 1EQ",
+          "postcode": "RH19 1EQ",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/EAST GRINSTEAD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.08994,
+            51.65199
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness ENFIELD",
+          "price": "\u00a324.99",
+          "address": "5 - 7 Old Park Avenue / Enfield / EN2 6PJ",
+          "postcode": "EN2 6PJ",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/ENFIELD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.055188,
+            51.439627
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness FOREST HILL",
+          "price": "\u00a344.99",
+          "address": "26-28 London Road / Forest Hill / London / SE23 3HF",
+          "postcode": "SE23 3HF",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/FOREST HILL"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.227328,
+            51.76348
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness HATFIELD",
+          "price": "\u00a319.99",
+          "address": "74-78 Town Centre / Hatfield / Hertfordshire / AL10 0JW",
+          "postcode": "AL10 0JW",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/HATFIELD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.472969,
+            51.750399
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness HEMEL",
+          "price": "\u00a321.99",
+          "address": "200 Marlowes / Hemel Hempstead / HP1 1BH",
+          "postcode": "HP1 1BH",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/HEMEL"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.110836,
+            51.550228
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness HIGHBURY",
+          "price": "\u00a321.99",
+          "address": "Energie Fitness Gym Highbury &amp; Islington / 555 Liverpool Road / London / N7 8NP",
+          "postcode": "N7 8NP",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/HIGHBURY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.011313,
+            51.760896
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness HODDESDON",
+          "price": "\u00a327.99",
+          "address": "110-114 High Street / Hoddesdon / Hertfordshire / EN11 8HD",
+          "postcode": "EN11 8HD",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/HODDESDON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.044309,
+            51.547341
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness HOMERTON",
+          "price": "\u00a329.99",
+          "address": "68-82 Digby Road / Homerton / London / E9 6HX",
+          "postcode": "E9 6HX",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/HOMERTON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.073541,
+            53.44682
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness HYDE",
+          "price": "\u00a321.99",
+          "address": "Market Street / Hyde / Cheshire / SK14 1HE",
+          "postcode": "SK14 1HE",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/HYDE"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.398047,
+            57.286505
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness INVERURIE",
+          "price": "\u00a324.99",
+          "address": "Burghmuir Place  / Blackhall Industrial Estate  / Inverurie  / Aberdeenshire\u00a0 / AB51 4FW",
+          "postcode": "AB51 4FW",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/INVERURIE"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.491051,
+            54.980959
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness JARROW",
+          "price": "\u00a321.99",
+          "address": "Ellison Street / Jarrow / Tyne and Wear / NE32 3JU",
+          "postcode": "NE32 3JU",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/JARROW"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.191432,
+            51.5366
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness KILBURN",
+          "price": "\u00a324.99",
+          "address": "34a - 36 Kilburn High Road / London / NW6 5UA",
+          "postcode": "NW6 5UA",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/KILBURN"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.669178,
+            51.916045
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness LEIGHTON",
+          "price": "\u00a324.99",
+          "address": "Unit 2 / Leighton Road / Leighton Buzzard / Bedfordshire / LU7 1LA",
+          "postcode": "LU7 1LA",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/LEIGHTON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.46897,
+            53.796209
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness LEEDS HALTON",
+          "price": "\u00a319.99",
+          "address": "212 Selby Road / Halton / Leeds / LS15 0LF",
+          "postcode": "LS15 0LF",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/LEEDS HALTON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.516853,
+            53.253422
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness LINCOLN",
+          "price": "\u00a319.99",
+          "address": "Flavian Road / Lincoln / LN2 4GR",
+          "postcode": "LN2 4GR",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/LINCOLN"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.53868,
+            53.227378
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness LINCOLN CITY",
+          "price": "\u00a321.99",
+          "address": "31 Sincil Street / Lincoln City / Lincoln / LN5 7ET",
+          "postcode": "LN5 7ET",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/LINCOLN CITY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.728634,
+            52.401874
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness KETTERING",
+          "price": "\u00a316.99",
+          "address": "Unit B2 Tanners Gate Retail Park / Northall Street / Kettering / NN16 8AQ",
+          "postcode": "NN16 8AQ",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/KETTERING"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.819643,
+            52.044122
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness MILTON KEYNES",
+          "price": "\u00a321.99",
+          "address": "1 Pitfield / Kiln Farm / Milton Keynes / MK11 3LW",
+          "postcode": "MK11 3LW",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/MILTON KEYNES"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.090359,
+            51.524675
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness OLD STREET",
+          "price": "\u00a334.99",
+          "address": "60-63 Bunhill Row / London / EC1Y 8QD",
+          "postcode": "EC1Y 8QD",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/OLD STREET"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.887319,
+            53.567723
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness ORMSKIRK",
+          "price": "\u00a324.99",
+          "address": "Unit 2 / Two Saint\u00a3\u20ac\u2122s Retail Park / Ormskirk / L39 3RN",
+          "postcode": "L39 3RN",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/ORMSKIRK"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.021114,
+            52.490916
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness OLDBURY",
+          "price": "\u00a317.99",
+          "address": "999 Wolverhampton Road / Oldbury / B69 4RJ",
+          "postcode": "B69 4RJ",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/OLDBURY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.245283,
+            52.574088
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness PETERBOROUGH",
+          "price": "\u00a319.99",
+          "address": "Unit 98 / Queensgate Shopping Centre / Peterborough / PE1 1NS",
+          "postcode": "PE1 1NS",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/PETERBOROUGH"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.110622,
+            51.615582
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness PALMERS GREEN",
+          "price": "\u00a324.99",
+          "address": "Broomfield Lane / Palmers Green / London / N13 4EY",
+          "postcode": "N13 4EY",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/PALMERS GREEN"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.340122,
+            51.60244
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness PONTYPRIDD",
+          "price": "\u00a320.99",
+          "address": "79 Taff Street / Pontypridd / South Wales / CF37 4SU",
+          "postcode": "CF37 4SU",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/PONTYPRIDD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4.3128,
+            55.811989
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness GLASGOW",
+          "price": "\u00a319.99",
+          "address": "EF Glasgow South / 775 Boydstone Road / Thornliebank / Glasgow / G46 8QZ",
+          "postcode": "G46 8QZ",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/GLASGOW"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.181384,
+            51.47943
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness ERITH",
+          "price": "\u00a319.99",
+          "address": "98 High Street / Erith / Kent / DA8 1SL",
+          "postcode": "DA8 1SL",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/ERITH"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.648274,
+            53.603927
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness SCUNTHORPE",
+          "price": "\u00a321.99",
+          "address": "Mannaberg Way / Scunthorpe / DN15 8XF",
+          "postcode": "DN15 8XF",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/SCUNTHORPE"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.314113,
+            54.566342
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness STOCKTON",
+          "price": "\u00a39.99",
+          "address": "28 Wellington Street  / Stockton / County Durham / TS18 1NA",
+          "postcode": "TS18 1NA",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/STOCKTON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.216481,
+            51.463729
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness PUTNEY",
+          "price": "\u00a324.99",
+          "address": "1st Floor Putney Exchange  / Putney High Street  / London / SW15 1TW",
+          "postcode": "SW15 1TW",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/PUTNEY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.776703,
+            52.414314
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness SOLIHULL",
+          "price": "\u00a324.99",
+          "address": "1st Floor / 59 - 63 Mill Lane / Solihull / B91 3AT",
+          "postcode": "B91 3AT",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/SOLIHULL"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.713873,
+            51.534837
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness SOUTHEND",
+          "price": "\u00a322.99",
+          "address": "3-5 High Street / Southend-on-Sea / Essex / SS1 1JE",
+          "postcode": "SS1 1JE",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/SOUTHEND"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.782221,
+            52.452163
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness SHELDON",
+          "price": "\u00a316.99 ",
+          "address": "2186-2190 Coventry Road / Birmingham / West Midlands / B26 3JG",
+          "postcode": "B26 3JG",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/SHELDON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.130092,
+            51.429821
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness STREATHAM",
+          "price": "\u00a319.99",
+          "address": "121-127 Streatham High Road\u00a0 / Streatham  / London  / SW16 1HJ",
+          "postcode": "SW16 1HJ",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/STREATHAM"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.09919,
+            51.398362
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness THORNTON",
+          "price": "\u00a315.99",
+          "address": "Ambassador House / 1 Brigstock Road / Thornton Heath / CR7 7YL",
+          "postcode": "CR7 7YL",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/THORNTON"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.444991,
+            55.016836
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness TYNEMOUTH",
+          "price": "\u00a317.99",
+          "address": "Preston Avenue / Percy Park / North Shields / Northumberland / NE30 2BE",
+          "postcode": "NE30 2BE",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/TYNEMOUTH"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.202961,
+            53.053679
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness TUNSTALL",
+          "price": "\u00a316.99",
+          "address": "Scotia Road / Stoke-On-Trent / Tunstall / ST6 4HG",
+          "postcode": "ST6 4HG",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/TUNSTALL"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.69187,
+            52.300957
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness WELLINGBOROUGH",
+          "price": "\u00a319.99",
+          "address": "21 Commercial Way / Swansgate Shopping Centre / Wellingborough / NN8 1EY",
+          "postcode": "NN8 1EY",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/WELLINGBOROUGH"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.287835,
+            51.553125
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness WEMBLEY",
+          "price": "\u00a322.99",
+          "address": "Elizabeth House / 341-345 High Road / Wembley / HA9 6BF",
+          "postcode": "HA9 6BF",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/WEMBLEY"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.324592,
+            51.509809
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness WEST EALING",
+          "price": "\u00a319.99",
+          "address": "77-83 The Broadway / West Ealing\u00a0 / London / W13 9BP",
+          "postcode": "W13 9BP",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/WEST EALING"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.312369,
+            51.06303
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness WINCHESTER",
+          "price": "\u00a327.99",
+          "address": "The Brooks Shopping Centre / Winchester / Hampshire / SO23 8QY",
+          "postcode": "SO23 8QY",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/WINCHESTER"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.835526,
+            51.409538
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness WOKINGHAM",
+          "price": "\u00a326.99",
+          "address": "4 The Plaza  / Denmark Street  / Wokingham  / RG40 2LD",
+          "postcode": "RG40 2LD",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/WOKINGHAM"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.063564,
+            51.492885
+          ]
+        },
+        "properties": {
+          "name": "Energiefitness WOOLWICH",
+          "price": "\u00a323.99",
+          "address": "Ground Floor &amp; Basement / 33 &amp; 35 Hare Street / Woolwich / SE18 6NE",
+          "postcode": "SE18 6NE",
+          "joiningfee": "\u00a310-30",
+          "markerid": "energiefitnessmarker",
+          "type": "Gym",
+          "gymlink": "https://www.energiefitness.com/WOOLWICH"
         }
       }
 ]

@@ -483,9 +483,13 @@
 									if (prop.phone) {
 										details.innerHTML += ' <i class="fas fa-phone" style="color: #306074"></i> ' + prop.phone;
 									}
+									if (prop.type) {
+										var gymType = prop.type;
+										details.innerHTML += '<br><i class="fas fa-question" style="color: #306074"></i> &nbsp&nbsp&nbsp Type: <strong>' + gymType + '</strong></br>';
+									}
 									if (prop.joiningfee) {
 										var joiningFee = prop.joiningfee;
-										details.innerHTML += '<br><i class="fas fa-money-bill" style="color: #306074"></i> &nbsp Joining Fee: <strong>' + joiningFee + '</strong></br>';
+										details.innerHTML += '<i class="fas fa-money-bill" style="color: #306074"></i> &nbsp Joining Fee: <strong>' + joiningFee + '</strong>';
 									}
 									if (prop.price) {
 										var gymPrice = prop.price;
